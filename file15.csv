@@ -1,0 +1,938 @@
+author;author_type;url;location;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price;district;street;house_number;underground;residential_complex
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/304049923/;Красногорск;sale;flat;21;25;2;65.82;18193569;;;к5;Павшино;М 5 ЖК
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306414696/;Красногорск;sale;flat;6;9;1;42.2;8670000;; Алексеевская;3;Аникеевка;Опалиха Парк
+Алексей Грипич;realtor;https://krasnogorsk.cian.ru/sale/flat/307823561/;Красногорск;sale;flat;11;17;1;41.0;5500000;;бульвар Южный;4;Павшино;
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/305205746/;Красногорск;sale;flat;19;25;1;36.21;11920658;;;к6;Павшино;М 5 ЖК
+ID 74221514;realtor;https://krasnogorsk.cian.ru/sale/flat/305886771/;Красногорск;sale;flat;23;25;2;38.7;9800000;;Заводская ;18к3;Павшино;мкрн. Южный (Ул. Заводская корп. 31)
+Самолет Плюс;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308695069/;Красногорск;sale;flat;17;34;1;40.0;8500000;;;64.;Липовая Роща;Спутник ЖК
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/307229986/;Красногорск;sale;flat;5;25;2;67.5;17629853;;;к5;Павшино;М 5 ЖК
+Сулейман Махаури;realtor;https://krasnogorsk.cian.ru/sale/flat/294741975/;Красногорск;sale;flat;16;24;2;82.0;9700000;;бульвар Космонавтов;1;Опалиха;Изумрудные холмы
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308825751/;Красногорск;sale;flat;2;9;1;33.0;6400000;;Лесная ;3;Павшино;
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/308755851/;Красногорск;sale;flat;23;25;1;44.15;12909019;;;к6;Павшино;М 5 ЖК
+ID 122083546;homeowner;https://krasnogorsk.cian.ru/sale/flat/307636806/;Красногорск;sale;flat;5;17;2;53.0;9990000;; Народного Ополчения;2Бк2;Митино;Брусчатый поселок
+СмениКварти.Ру;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308833060/;Красногорск;sale;flat;9;25;1;32.0;6500000;;бульвар Космонавтов;12;Опалиха;Изумрудные холмы
+СИТИ21;developer;https://krasnogorsk.cian.ru/sale/flat/293383362/;Красногорск;sale;flat;3;6;2;63.8;16381467;;аллея Золотая;1;Опалиха;8 кленов
+ID 49930636;homeowner;https://krasnogorsk.cian.ru/sale/flat/307820982/;Красногорск;sale;flat;4;26;2;59.9;14700000;;бульвар Ильинский;2А;Пенягино;Павшинская пойма мкрн. 4
+VIVAVI ESTATE;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307287934/;Красногорск;sale;flat;4;22;1;50.6;8700000;;бульвар Подмосковный;8;Пенягино;
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/308818807/;Красногорск;sale;flat;15;28;2;62.71;13923501;;;к8;Павшино;Тетрис ЖК
+ID 883747;unknown;https://krasnogorsk.cian.ru/sale/flat/308858112/;Красногорск;sale;flat;5;10;1;48.8;8100000;;Строительная ;5;Павшино;
+Сергей Борцов;realtor;https://krasnogorsk.cian.ru/sale/flat/297648476/;Красногорск;sale;flat;2;22;1;19.5;6000000;;бульвар Подмосковный;2;Пенягино;
+СИТИ21;developer;https://krasnogorsk.cian.ru/sale/flat/308706703/;Красногорск;sale;flat;4;6;1;40.7;10235506;;аллея Золотая;1;Опалиха;8 кленов
+Метражи group;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305779737/;Красногорск;sale;flat;12;31;1;33.67;9950000;;;к13;Липовая Роща;Спутник ЖК
+Офис на Серпуховской;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307099163/;Красногорск;sale;flat;8;9;2;50.0;7900000;;Пионерская ;19;Павшино;
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/308818793/;Красногорск;sale;flat;17;28;1;43.95;11013870;;;к8;Павшино;Тетрис ЖК
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308464322/;Красногорск;sale;flat;1;5;1;30.1;5490000;;Речная ;3;Павшино;
+do A.S.A.P.;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307486811/;Красногорск;sale;flat;19;25;1;36.0;6450000;;бульвар Космонавтов;11;Опалиха;Изумрудные холмы
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/303109014/;Красногорск;sale;flat;3;6;1;37.1;7980594;;;;Аникеевка;Никольский Квартал Отрада ЖК
+Ольга Соколова;realtor;https://krasnogorsk.cian.ru/sale/flat/308365503/;Красногорск;sale;flat;21;25;2;64.0;14500000;;Ильинское шоссе;14;Павшино;Ильинский парк
+МИЭЛЬ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/302997308/;Красногорск;sale;flat;1;5;2;43.0;6300000;;Железнодорожная ;36а;Красногорская;
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/301322377/;Красногорск;sale;flat;6;6;1;32.4;6752698;;;к13;Аникеевка;Никольский Квартал Отрада ЖК
+Росэлторг;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307785274/;Красногорск;sale;flat;1;8;1;37.4;5832000;; Пришвина;15;Опалиха;Опалиха О3
+Century21 Феникс;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308426114/;Красногорск;sale;flat;2;5;2;44.0;7300000;;Железнодорожная ;28;Красногорская;
+Ай Кью Проекты;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/293556306/;Красногорск;sale;flat;12;33;1;35.1;8300000;; Липовой Рощи;2к1;Строгино;Sky Sputnik
+1-й Город;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308311458/;Красногорск;sale;flat;22;25;1;41.0;8200000;;бульвар Космонавтов;4;Опалиха;Изумрудные холмы
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/303108874/;Красногорск;sale;flat;9;9;2;55.2;11445477;;;к13;Аникеевка;Никольский Квартал Отрада ЖК
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303383668/;Красногорск;sale;flat;16;22;2;73.5;12300000;;бульвар Павшинский;16;Пенягино; Павшинский бульвар, 16
+Банк ТРАСТ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306977724/;Красногорск;sale;flat;8;9;1;43.2;6930000;; Пришвина;16;Опалиха;Опалиха О3
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/302020290/;Красногорск;sale;flat;6;9;2;44.9;9645577;;;к12;Аникеевка;Никольский Квартал Отрада ЖК
+TimeProperty;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307862780/;Красногорск;sale;flat;6;7;2;42.9;24800000;; Согласия;19;Строгино;Парк Рублево
+ЕГСН Продажа;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303394632/;Красногорск;sale;flat;2;12;1;35.0;6200000;;Железнодорожная ;33;Красногорская;
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/302020365/;Красногорск;sale;flat;6;6;1;37.7;8317600;;;к12;Аникеевка;Никольский Квартал Отрада ЖК
+Landis;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304426869/;Красногорск;sale;flat;15;44;1;37.0;9300000;; Авангардная;6;Пенягино;ART
+Константин Фатеев;realtor;https://krasnogorsk.cian.ru/sale/flat/276647494/;Красногорск;sale;flat;2;5;1;30.0;5750000;;Железнодорожная ;28;Красногорская;
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/306771668/;Красногорск;sale;flat;4;9;1;31.3;7388985;;;к12;Аникеевка;Никольский Квартал Отрада ЖК
+Villagio Realty;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307705567/;Красногорск;sale;flat;43;45;2;73.2;18000000;; Авангардная;10;Пенягино;ART
+Вероника Голентовская;realtor;https://krasnogorsk.cian.ru/sale/flat/307640698/;Красногорск;sale;flat;23;25;2;57.0;9800000;;бульвар Космонавтов;7;Опалиха;Изумрудные холмы
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/299375261/;Красногорск;sale;flat;3;9;2;47.1;6658621;;;к13;Аникеевка;Никольский Квартал Отрада ЖК
+Villagio Realty;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308331587/;Красногорск;sale;flat;2;18;1;37.8;7400000;; Вилора Трифонова;7;Опалиха;
+ID 11175322;homeowner;https://krasnogorsk.cian.ru/sale/flat/307361235/;Красногорск;sale;flat;5;8;2;61.0;7650000;; Алексеевская;3;Аникеевка;Опалиха Парк
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308650142/;Красногорск;sale;flat;22;24;2;51.0;15717132;;;к1;Строгино;Квартал Строгино ЖК
+На Петровке;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308225776/;Красногорск;sale;flat;4;10;2;74.0;20900000;;бульвар Серебряный;1;Опалиха;Серебрица
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307855670/;Красногорск;sale;flat;8;16;1;42.5;7990000;;бульвар Космонавтов;1;Опалиха;Изумрудные холмы
+СИТИ21;developer;https://krasnogorsk.cian.ru/sale/flat/276781358/;Красногорск;sale;flat;1;6;2;62.9;16611889;;аллея Золотая;1;Опалиха;8 кленов
+Эксклюзив Хоум;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307063932/;Красногорск;sale;flat;16;30;1;27.6;8499000;; Большая Воскресенская;1;Павшино;Тетрис
+МИНИСТЕРСТВО НЕДВИЖИМОСТИ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308827676/;Красногорск;sale;flat;7;17;1;42.0;10199000;;бульвар Красногорский;13к1;Пенягино;
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308650113/;Красногорск;sale;flat;13;24;1;32.7;12087915;;;к2;Строгино;Квартал Строгино ЖК
+Ай Кью Проекты;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307418548/;Красногорск;sale;flat;2;33;1;35.0;9990000;; Липовой Рощи;1к1;Строгино;Sky Sputnik
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/308755832/;Красногорск;sale;flat;27;28;2;55.88;14575851;;;к8;Павшино;Тетрис ЖК
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307068343/;Красногорск;sale;flat;13;45;2;67.6;16900000;; Авангардная;10;Пенягино;ART
+ГОРОБМЕН;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308191320/;Красногорск;sale;flat;13;24;1;29.0;6099999;;бульвар Космонавтов;17;Опалиха;Изумрудные холмы
+СИТИ21;developer;https://krasnogorsk.cian.ru/sale/flat/297604726/;Красногорск;sale;flat;2;6;2;65.0;17335209;;аллея Золотая;1;Опалиха;8 кленов
+Брусника Обмен;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305966249/;Красногорск;sale;flat;4;6;1;40.5;8640000;;аллея Золотая;4;Опалиха;8 кленов
+Людмила Дейнега;realtor;https://krasnogorsk.cian.ru/sale/flat/308203078/;Красногорск;sale;flat;5;5;2;40.0;5999999;; Кирова;21;Красногорская;
+СИТИ21;developer;https://krasnogorsk.cian.ru/sale/flat/302743580/;Красногорск;sale;flat;2;6;1;40.4;12112178;;аллея Золотая;1;Опалиха;8 кленов
+Century21 Феникс;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307971794/;Красногорск;sale;flat;7;9;2;51.0;8600000;; Ленина;51;Красногорская;
+Евгений Калын;realtor;https://krasnogorsk.cian.ru/sale/flat/306323345/;Красногорск;sale;flat;12;23;1;44.8;8850000;;Павшинская ;2;Павшино;Павшинский
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/297046513/;Красногорск;sale;flat;1;6;2;51.6;10699033;;;к13;Аникеевка;Никольский Квартал Отрада ЖК
+Century21 Феникс;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307059348/;Красногорск;sale;flat;15;17;1;38.2;8385000;;бульвар Южный;4;Павшино;
+АнВи;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/297857090/;Красногорск;sale;flat;9;9;1;33.0;6000000;; Ленина;26А;Красногорская;
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/306771579/;Красногорск;sale;flat;5;6;2;45.1;9528840;;;;Аникеевка;Никольский Квартал Отрада ЖК
+Century21 Феникс;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307235839/;Красногорск;sale;flat;5;17;1;45.6;8300000;;Успенская ;24;Опалиха;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308366040/;Красногорск;sale;flat;2;3;1;39.0;8500000;; Алябьева;1;Аникеевка;
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/301322363/;Красногорск;sale;flat;7;9;2;54.0;10942193;;;к13;Аникеевка;Никольский Квартал Отрада ЖК
+ГОРОДА;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307217708/;Красногорск;sale;flat;18;18;1;50.6;11900000;;бульвар Подмосковный;8;Пенягино;
+Александра Григорьева;realtor;https://krasnogorsk.cian.ru/sale/flat/308385790/;Красногорск;sale;flat;16;34;1;35.36;7700000;;;21;Строгино;Спутник ЖК
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/300294898/;Красногорск;sale;flat;7;9;1;21.8;4320394;;;к13;Аникеевка;Никольский Квартал Отрада ЖК
+Ай Кью Проекты;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306909255/;Красногорск;sale;flat;6;32;2;57.5;13200000;; Липовой Рощи;4к4;Строгино;Sky Sputnik
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308803778/;Красногорск;sale;flat;16;34;1;34.0;7900000;;;к14;Липовая Роща;Спутник ЖК
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/308818798/;Красногорск;sale;flat;18;28;2;67.49;16466750;;;к8;Павшино;Тетрис ЖК
+WHITE BROKER;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307995181/;Красногорск;sale;flat;7;31;1;35.0;8150000;; Ленина;4;Красногорская;
+МИЭЛЬ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/301256282/;Красногорск;sale;flat;9;25;1;36.6;8498000;; Липовой Рощи;4к3;Липовая Роща;Sky Sputnik
+СИТИ21;developer;https://krasnogorsk.cian.ru/sale/flat/269665654/;Красногорск;sale;flat;1;6;2;49.6;14110455;;аллея Золотая;4;Опалиха;8 кленов
+Life Drive;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308930384/;Красногорск;sale;flat;10;12;1;34.9;9400000;;бульвар Серебряный;1;Опалиха;Серебрица
+Самолет Плюс МСК-Север;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307425789/;Красногорск;sale;flat;2;5;2;44.0;8000000;;Железнодорожная ;30А;Красногорская;
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308656150/;Красногорск;sale;flat;17;32;1;48.23;13813168;;;21;Липовая Роща;Спутник ЖК
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308650026/;Красногорск;sale;flat;24;24;2;51.13;19729391;;;к2;Строгино;Квартал Строгино ЖК
+ID 66056028;homeowner;https://krasnogorsk.cian.ru/sale/flat/305839859/;Красногорск;sale;flat;4;6;2;45.6;12500000;; Пришвина;9;Опалиха;Опалиха О3
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308656172/;Красногорск;sale;flat;19;30;2;61.47;18137154;;;20;Липовая Роща;Спутник ЖК
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308912388/;Красногорск;sale;flat;23;24;1;43.0;14225604;;;к1;Строгино;Квартал Строгино ЖК
+ID 12832059;unknown;https://krasnogorsk.cian.ru/sale/flat/307625626/;Красногорск;sale;flat;29;30;2;58.2;13400000;;бульвар Красногорский;23к1;Волоколамская;Спасский Мост
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/308893231/;Красногорск;sale;flat;24;28;1;37.78;11591320;;;к8;Павшино;Тетрис ЖК
+МЕЗОН;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303275420/;Красногорск;sale;flat;9;17;2;73.9;13750000;;бульвар Павшинский;6;Пенягино;Павшинская пойма мкрн. 4
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308912384/;Красногорск;sale;flat;23;24;2;50.3;15740832;;;к1;Строгино;Квартал Строгино ЖК
+Ай Кью Проекты;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307753376/;Красногорск;sale;flat;22;28;2;43.6;15200000;;;20;Строгино;Спутник ЖК
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308912396/;Красногорск;sale;flat;17;24;1;31.6;11736272;;;к1;Строгино;Квартал Строгино ЖК
+Алексей Спицын;realtor;https://krasnogorsk.cian.ru/sale/flat/307026837/;Красногорск;sale;flat;20;32;2;65.0;15700000;; Липовой Рощи;2к1;Строгино;Sky Sputnik
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/308893200/;Красногорск;sale;flat;7;28;2;62.26;15128931;;;к8;Павшино;Тетрис ЖК
+ID 11088789;realtor;https://krasnogorsk.cian.ru/sale/flat/296955996/;Красногорск;sale;flat;1;5;1;31.1;5150000;; Благовещенская;6;Аникеевка;
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/308893222/;Красногорск;sale;flat;26;28;1;39.71;11681411;;;к8;Павшино;Тетрис ЖК
+Росэлторг;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307785278/;Красногорск;sale;flat;1;8;1;40.0;6156000;; Пришвина;15;Опалиха;Опалиха О3
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308912323/;Красногорск;sale;flat;13;24;1;38.14;13675745;;;к2;Строгино;Квартал Строгино ЖК
+ID 51619208;homeowner;https://krasnogorsk.cian.ru/sale/flat/307829824/;Красногорск;sale;flat;1;5;1;31.0;6300000;;переулок Оптический;6;Павшино;
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308912391/;Красногорск;sale;flat;2;24;1;35.5;11939644;;;к1;Строгино;Квартал Строгино ЖК
+ID 111963187;homeowner;https://krasnogorsk.cian.ru/sale/flat/308351724/;Красногорск;sale;flat;7;8;1;49.5;6400000;; Алексеевская;3;Аникеевка;Опалиха Парк
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308912315/;Красногорск;sale;flat;2;24;1;41.51;15152976;;;к2;Строгино;Квартал Строгино ЖК
+ID 23676994;homeowner;https://krasnogorsk.cian.ru/sale/flat/308209550/;Красногорск;sale;flat;2;27;1;32.0;7000000;;бульвар Космонавтов;12;Опалиха;Изумрудные холмы
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308912311/;Красногорск;sale;flat;21;24;2;54.7;15370591;;;к2;Строгино;Квартал Строгино ЖК
+ID 204410;unknown;https://krasnogorsk.cian.ru/sale/flat/308477602/;Красногорск;sale;flat;14;18;1;43.0;7150000;;Успенская ;32;Опалиха;
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308912313/;Красногорск;sale;flat;23;24;1;44.39;15294042;;;к2;Строгино;Квартал Строгино ЖК
+ID 104962112;homeowner;https://krasnogorsk.cian.ru/sale/flat/307719671/;Красногорск;sale;flat;2;5;2;44.0;7300000;;Железнодорожная ;28;Красногорская;
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/308893204/;Красногорск;sale;flat;16;28;1;43.41;11952553;;;к8;Павшино;Тетрис ЖК
+ID 237000;homeowner;https://krasnogorsk.cian.ru/sale/flat/308719750/;Красногорск;sale;flat;12;16;1;39.8;7350000;; Вилора Трифонова;4;Опалиха;
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/304049886/;Красногорск;sale;flat;20;25;2;54.0;16802208;;;к6;Павшино;М 5 ЖК
+Татьяна Юрьевна Пономарева;realtor;https://krasnogorsk.cian.ru/sale/flat/308514734/;Красногорск;sale;flat;9;26;1;44.3;11000000;; Игоря Мерлушкина;1;Опалиха;Изумрудные холмы
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/297046478/;Красногорск;sale;flat;9;9;1;40.8;8459700;;;к13;Аникеевка;Никольский Квартал Отрада ЖК
+ID 450578;realtor;https://krasnogorsk.cian.ru/sale/flat/307931405/;Красногорск;sale;flat;15;17;1;40.4;11000000;; Спасская;8;Пенягино;
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308656126/;Красногорск;sale;flat;22;32;1;43.03;13501136;;;19;Строгино;Спутник ЖК
+ID 88933721;homeowner;https://krasnogorsk.cian.ru/sale/flat/308851041/;Красногорск;sale;flat;2;20;1;49.0;11100000;;бульвар Подмосковный;12;Пенягино;Павшинская пойма мкр. 2
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/304049830/;Красногорск;sale;flat;22;28;2;65.64;18507986;;;к8;Павшино;Тетрис ЖК
+ID 74210151;unknown;https://krasnogorsk.cian.ru/sale/flat/306701521/;Красногорск;sale;flat;17;17;2;52.0;11150000;;бульвар Ильинский;2;Пенягино;
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/304049832/;Красногорск;sale;flat;22;28;2;50.24;15831478;;;к8;Павшино;Тетрис ЖК
+ГОРОДА;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307207460/;Красногорск;sale;flat;2;22;1;53.3;11150000;;бульвар Красногорский;21;Липовая Роща;Павшинская пойма мкр. 2
+СИТИ21;developer;https://krasnogorsk.cian.ru/sale/flat/302743574/;Красногорск;sale;flat;3;6;2;50.0;13185712;;аллея Золотая;1;Опалиха;8 кленов
+Дарья Савченко;realtor;https://krasnogorsk.cian.ru/sale/flat/307813853/;Красногорск;sale;flat;15;23;1;41.6;11300000;; Спасская;1к2;Пенягино;Спасский Мост
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308656170/;Красногорск;sale;flat;2;30;2;63.82;23225334;;;20;Липовая Роща;Спутник ЖК
+ID 30271386;realtor;https://krasnogorsk.cian.ru/sale/flat/307798592/;Красногорск;sale;flat;10;17;1;42.3;11300000;;бульвар Красногорский;19;Мякинино;
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/306771639/;Красногорск;sale;flat;7;9;2;52.0;10784199;;;;Аникеевка;Никольский Квартал Отрада ЖК
+ГОРОДА;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307091839/;Красногорск;sale;flat;24;25;1;35.6;11500000;; Молодежная;4;Пенягино;Молодежный (Красногорск)
+СИТИ21;developer;https://krasnogorsk.cian.ru/sale/flat/302743510/;Красногорск;sale;flat;4;6;2;62.0;15999718;;аллея Золотая;4;Опалиха;8 кленов
+ID 297613;unknown;https://krasnogorsk.cian.ru/sale/flat/304307834/;Красногорск;sale;flat;15;19;2;51.4;11890000;;Парковая ;8;Павшино;Парковые Аллеи
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/306771965/;Красногорск;sale;flat;6;9;1;31.3;6339335;;;;Аникеевка;Никольский Квартал Отрада ЖК
+ССК Риэлти;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/298701771/;Красногорск;sale;flat;23;24;2;62.8;11900000;; Игоря Мерлушкина;12;Опалиха;Изумрудные холмы
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/307229990/;Красногорск;sale;flat;14;25;1;45.39;13181165;;;к5;Павшино;М 5 ЖК
+ГОРОДА;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307823126/;Красногорск;sale;flat;41;46;1;40.0;12000000;; Авангардная;4;Пенягино;ART
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/305408691/;Красногорск;sale;flat;23;28;2;59.42;19563797;;;к8;Павшино;Тетрис ЖК
+Татьяна Алексеевна;realtor;https://krasnogorsk.cian.ru/sale/flat/308816285/;Красногорск;sale;flat;14;25;1;33.0;12150000;;бульвар Красногорский;24;Мякинино;Павшинская пойма мкрн. 4
+СИТИ21;developer;https://krasnogorsk.cian.ru/sale/flat/300437236/;Красногорск;sale;flat;1;6;1;47.3;12462793;;аллея Золотая;4;Опалиха;8 кленов
+ГОРОДА;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307715377/;Красногорск;sale;flat;18;25;1;40.0;12200000;;бульвар Красногорский;26;Липовая Роща;Павшинская пойма мкрн. 4
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/306771713/;Красногорск;sale;flat;1;6;1;40.1;7708038;;;к12;Аникеевка;Никольский Квартал Отрада ЖК
+ID 23676994;homeowner;https://krasnogorsk.cian.ru/sale/flat/308204920/;Красногорск;sale;flat;5;26;2;57.0;12500000;;бульвар Космонавтов;11;Опалиха;Изумрудные холмы
+Екатерина Пестерева;realtor;https://krasnogorsk.cian.ru/sale/flat/308491586/;Красногорск;sale;flat;6;8;2;60.9;43000000;; Согласия;19;Мякинино;Парк Рублево
+Андрей Бойчун;realtor;https://krasnogorsk.cian.ru/sale/flat/307948709/;Красногорск;sale;flat;2;5;2;45.0;6900000;;Железнодорожная ;6;Павшино;
+ГОРОДА;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303485031/;Красногорск;sale;flat;8;17;1;48.1;8700000;;Успенская ;24;Опалиха;
+Алексей Булатников;realtor;https://krasnogorsk.cian.ru/sale/flat/301832219/;Красногорск;sale;flat;14;17;2;51.3;9650000;; Ленина;42;Опалиха;
+ГОРОДА;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303485175/;Красногорск;sale;flat;8;26;1;36.9;7500000;; Игоря Мерлушкина;2;Опалиха;Изумрудные холмы
+Андрей Березовский;realtor;https://krasnogorsk.cian.ru/sale/flat/306145449/;Красногорск;sale;flat;2;10;2;51.7;9900000;; Дежнева;9;Опалиха;
+Татьяна Алексеевна;realtor;https://krasnogorsk.cian.ru/sale/flat/308815732/;Красногорск;sale;flat;2;19;2;40.0;15650000;;бульвар Красногорский;23к3;Мякинино;Спасский Мост
+1ДАН Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308884443/;Красногорск;sale;flat;13;17;1;45.1;10600000;; Спасская;1к2;Пенягино;Спасский Мост
+ГОРОДА;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307423468/;Красногорск;sale;flat;24;25;1;28.1;8500000;;бульвар Космонавтов;12;Опалиха;Изумрудные холмы
+Фарид Султанов;realtor;https://krasnogorsk.cian.ru/sale/flat/304086276/;Красногорск;sale;flat;2;2;1;30.8;6500000;; Мира;20;Опалиха;
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/308893233/;Красногорск;sale;flat;24;28;2;54.43;15156850;;;к8;Павшино;Тетрис ЖК
+ID 208669;realtor;https://krasnogorsk.cian.ru/sale/flat/308804485/;Красногорск;sale;flat;4;8;1;33.0;7999000;; Пришвина;2;Опалиха;Опалиха О3
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/304049909/;Красногорск;sale;flat;11;25;1;47.65;13570482;;;к5;Павшино;М 5 ЖК
+ID 13241598;realtor;https://krasnogorsk.cian.ru/sale/flat/307110696/;Красногорск;sale;flat;20;25;1;44.3;8300000;; Игоря Мерлушкина;3;Опалиха;Изумрудные холмы
+Олеся Шебанова;realtor;https://krasnogorsk.cian.ru/sale/flat/303958923/;Красногорск;sale;flat;9;9;1;34.0;7000000;; Ленина;17;Павшино;
+СИТИ21;developer;https://krasnogorsk.cian.ru/sale/flat/302743616/;Красногорск;sale;flat;1;6;2;44.4;12947909;;аллея Золотая;1;Опалиха;8 кленов
+Елена Гончарова;realtor;https://krasnogorsk.cian.ru/sale/flat/307682557/;Красногорск;sale;flat;14;17;1;42.2;9300000;;бульвар Павшинский;4;Пенягино;
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/301220253/;Красногорск;sale;flat;6;6;1;32.9;5930202;;;к12;Аникеевка;Никольский Квартал Отрада ЖК
+Денис Мазитов;realtor;https://krasnogorsk.cian.ru/sale/flat/306975830/;Красногорск;sale;flat;12;25;2;64.6;9300000;;бульвар Космонавтов;7;Опалиха;Изумрудные холмы
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/306771629/;Красногорск;sale;flat;1;9;2;58.8;12518760;;;;Аникеевка;Никольский Квартал Отрада ЖК
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308656125/;Красногорск;sale;flat;16;32;1;46.97;13746992;;;19;Строгино;Спутник ЖК
+ГОРОДА;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306478611/;Красногорск;sale;flat;18;23;2;68.7;25450000;; Спасская;1к2;Пенягино;Спасский Мост
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/304049892/;Красногорск;sale;flat;23;25;2;63.67;18152699;;;к6;Павшино;М 5 ЖК
+СИТИ21;developer;https://krasnogorsk.cian.ru/sale/flat/269665683/;Красногорск;sale;flat;1;6;2;65.6;17265820;;аллея Золотая;1;Опалиха;8 кленов
+Дмитрий Ломовцев;realtor;https://krasnogorsk.cian.ru/sale/flat/305931478/;Красногорск;sale;flat;5;8;2;76.7;54000000;; Согласия;15;Мякинино;Парк Рублево
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/308818804/;Красногорск;sale;flat;11;28;2;71.04;15709359;;;к8;Павшино;Тетрис ЖК
+i-deal;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304318400/;Красногорск;sale;flat;1;4;1;32.0;4990000;; Кирова;13;Павшино;
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308656118/;Красногорск;sale;flat;15;32;1;56.41;15432873;;;19;Строгино;Спутник ЖК
+WHITE BROKER;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308409744/;Красногорск;sale;flat;2;5;1;35.0;5400000;; Ткацкой фабрики;24;Аникеевка;
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308656147/;Красногорск;sale;flat;10;32;1;49.21;14040154;;;21;Липовая Роща;Спутник ЖК
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305360666/;Красногорск;sale;flat;2;5;1;35.0;5400000;; Ткацкой фабрики;24;Аникеевка;
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/301723041/;Красногорск;sale;flat;4;6;1;37.7;8192836;;;;Аникеевка;Никольский Квартал Отрада ЖК
+Семен Миронов;realtor;https://krasnogorsk.cian.ru/sale/flat/307963218/;Красногорск;sale;flat;1;4;1;37.0;5500000;; Народного Ополчения;35;Павшино;
+СИТИ21;developer;https://krasnogorsk.cian.ru/sale/flat/302743500/;Красногорск;sale;flat;6;6;1;40.5;11840215;;аллея Золотая;4;Опалиха;8 кленов
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/301322356/;Красногорск;sale;flat;1;6;1;24.3;5725566;;;к13;Аникеевка;Никольский Квартал Отрада ЖК
+Светлана Синильщикова;realtor;https://krasnogorsk.cian.ru/sale/flat/306912820/;Красногорск;sale;flat;9;9;1;31.5;5550000;;Лесная ;5;Павшино;
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/304049823/;Красногорск;sale;flat;8;28;2;47.27;16334527;;;к8;Павшино;Тетрис ЖК
+ИНКОМ-Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307116984/;Красногорск;sale;flat;9;9;1;34.7;5600000;; Ленина;55;Красногорская;
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308656176/;Красногорск;sale;flat;11;30;1;52.48;15040663;;;20;Липовая Роща;Спутник ЖК
+Татьяна Полякова;realtor;https://krasnogorsk.cian.ru/sale/flat/302897454/;Красногорск;sale;flat;23;26;1;26.6;5650000;;бульвар Космонавтов;11;Опалиха;Изумрудные холмы
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308656111/;Красногорск;sale;flat;8;32;1;58.03;16137331;;;19;Строгино;Спутник ЖК
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/303108906/;Красногорск;sale;flat;1;6;1;43.0;8934282;;;к12;Аникеевка;Никольский Квартал Отрада ЖК
+Банк ТРАСТ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306977862/;Красногорск;sale;flat;1;9;1;37.4;5832000;; Пришвина;15;Опалиха;Опалиха О3
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/297046445/;Красногорск;sale;flat;1;9;1;42.6;8632174;;;к13;Аникеевка;Никольский Квартал Отрада ЖК
+НДВ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/302085710/;Красногорск;sale;flat;3;5;1;35.0;5800000;; Ткацкой фабрики;24;Аникеевка;
+Валерий Зимин;realtor;https://krasnogorsk.cian.ru/sale/flat/304162845/;Красногорск;sale;flat;9;9;1;38.0;7800000;;Ильинское шоссе;1;Павшино;
+Простор-недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308282829/;Красногорск;sale;flat;11;24;2;31.18;10390000;;;к2;Строгино;Квартал Строгино ЖК
+ID 28790635;homeowner;https://krasnogorsk.cian.ru/sale/flat/308785102/;Красногорск;sale;flat;7;22;2;43.3;10900000;;бульвар Подмосковный;10;Пенягино;Павшинская пойма мкр. 2
+М.Град;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308734214/;Красногорск;sale;flat;4;8;1;30.4;7700000;; Пришвина;6;Опалиха;Опалиха О3
+Ирина Лискина;realtor;https://krasnogorsk.cian.ru/sale/flat/308737467/;Красногорск;sale;flat;8;17;1;43.0;10300000;;бульвар Красногорский;19;Мякинино;
+Яна Короткая;realtor;https://krasnogorsk.cian.ru/sale/flat/296801507/;Красногорск;sale;flat;10;24;1;34.5;6700000;;Ильинский тупик;;Павшино;Ильинойс
+ID 58895206;homeowner;https://krasnogorsk.cian.ru/sale/flat/308132589/;Красногорск;sale;flat;9;24;2;66.6;12700000;; Игоря Мерлушкина;8;Опалиха;Изумрудные холмы
+МГСН;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308908321/;Красногорск;sale;flat;3;10;1;36.8;8000000;; Геологов;17;Опалиха;Дом на Геологов
+Юлия Рудь;realtor;https://krasnogorsk.cian.ru/sale/flat/300912271/;Красногорск;sale;flat;18;19;1;37.9;8300000;; Жуковского;11;Павшино;Grand Hills
+Лариса Пилипенко;realtor;https://krasnogorsk.cian.ru/sale/flat/306852653/;Красногорск;sale;flat;14;17;1;37.7;9000000;; Имени Зверева;4;Пенягино;
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/303108908/;Красногорск;sale;flat;5;6;1;32.2;6759295;;;к12;Аникеевка;Никольский Квартал Отрада ЖК
+Денис Трефилов;realtor;https://krasnogorsk.cian.ru/sale/flat/306432753/;Красногорск;sale;flat;4;5;2;43.0;7100000;;Пионерская ;17;Павшино;
+DomLex;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/291279121/;Красногорск;sale;flat;13;16;1;50.0;10500000;;бульвар Павшинский;20;Пенягино;
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308656122/;Красногорск;sale;flat;11;32;1;50.56;14327895;;;19;Строгино;Спутник ЖК
+Елена Дудченко;realtor;https://krasnogorsk.cian.ru/sale/flat/306857079/;Красногорск;sale;flat;10;14;2;51.0;9900000;;Железнодорожная ;1а;Павшино;
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308007907/;Красногорск;sale;flat;12;24;1;39.0;7990000;; Игоря Мерлушкина;10;Опалиха;Изумрудные холмы
+СИТИ21;developer;https://krasnogorsk.cian.ru/sale/flat/302743512/;Красногорск;sale;flat;5;6;2;64.2;16152939;;аллея Золотая;4;Опалиха;8 кленов
+Вотчина;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308953830/;Красногорск;sale;flat;2;18;1;44.0;7000000;; Вилора Трифонова;8;Опалиха;
+ЕГСН Продажа;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303765383/;Красногорск;sale;flat;3;14;2;53.0;10500000;;Оптический проезд;16;Павшино;
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/308755829/;Красногорск;sale;flat;24;28;1;42.22;12218088;;;к8;Павшино;Тетрис ЖК
+Марина Харламова;realtor;https://krasnogorsk.cian.ru/sale/flat/308930103/;Красногорск;sale;flat;17;33;1;36.0;8400000;; Липовой Рощи;1к3;Строгино;Sky Sputnik
+Татьяна Захарова;realtor;https://krasnogorsk.cian.ru/sale/flat/291246714/;Красногорск;sale;flat;6;10;1;33.0;7300000;; Дежнева;6;Опалиха;
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/306771571/;Красногорск;sale;flat;5;6;2;46.5;9611690;;;к12;Аникеевка;Никольский Квартал Отрада ЖК
+Андрей Рябичев;realtor;https://krasnogorsk.cian.ru/sale/flat/308945570/;Красногорск;sale;flat;5;12;1;36.0;7500000;;Железнодорожная ;30;Красногорская;
+FIVE Realty;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307898273/;Красногорск;sale;flat;20;28;2;34.49;9000000;;;к15;Строгино;Спутник ЖК
+СИТИ21;developer;https://krasnogorsk.cian.ru/sale/flat/302743561/;Красногорск;sale;flat;5;6;2;51.3;13188121;;аллея Золотая;1;Опалиха;8 кленов
+Анна Богатырева;realtor;https://krasnogorsk.cian.ru/sale/flat/301684378/;Красногорск;sale;flat;11;17;1;49.9;10500000;;бульвар Красногорский;11;Пенягино;
+МРИЭЛТОР - офис Отрадное;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308945199/;Красногорск;sale;flat;3;14;2;65.0;9300000;;бульвар Павшинский;38;Пенягино;
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308656132/;Красногорск;sale;flat;11;32;2;63.25;19660250;;;21;Липовая Роща;Спутник ЖК
+Простор-недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307983637/;Красногорск;sale;flat;6;7;1;34.4;9700000;; Авангардная;3;Пенягино;ART
+Михаил Васильев;realtor;https://krasnogorsk.cian.ru/sale/flat/306346270/;Красногорск;sale;flat;1;12;2;38.1;6950000;; 50 лет Октября;10;Красногорская;
+СИТИ21;developer;https://krasnogorsk.cian.ru/sale/flat/291457419/;Красногорск;sale;flat;4;6;2;61.3;15749466;;аллея Золотая;1;Опалиха;8 кленов
+ГОРОДА;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308951369/;Красногорск;sale;flat;1;4;1;32.7;6100000;; Чайковского;10;Павшино;
+МРИЭЛТОР - офис Отрадное;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308945196/;Красногорск;sale;flat;8;15;2;65.3;10200000;;бульвар Павшинский;38;Пенягино;
+СИТИ21;developer;https://krasnogorsk.cian.ru/sale/flat/291457563/;Красногорск;sale;flat;1;6;1;50.0;14847988;;аллея Золотая;1;Опалиха;8 кленов
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306798411/;Красногорск;sale;flat;3;10;1;33.5;7400000;; Королева;5;Павшино;
+ГТН Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308209255/;Красногорск;sale;flat;1;8;1;32.3;7800000;; Пришвина;2;Опалиха;Опалиха О3
+Светлана Прокопенко;realtor;https://krasnogorsk.cian.ru/sale/flat/303156557/;Красногорск;sale;flat;22;26;1;42.2;7550000;; Игоря Мерлушкина;1;Опалиха;Изумрудные холмы
+НАТАНИЭЛЬ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/302841770/;Красногорск;sale;flat;3;12;1;40.9;7500000;;бульвар Серебряный;1;Опалиха;Серебрица
+Елена Комиссарова;realtor;https://krasnogorsk.cian.ru/sale/flat/304302839/;Красногорск;sale;flat;3;9;1;35.0;6400000;; Ленина;47к2;Опалиха;
+EstateLiga;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/294502913/;Красногорск;sale;flat;7;33;1;36.0;8500000;; Липовой Рощи;1к3;Липовая Роща;Sky Sputnik
+РЕСКОР;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308747588/;Красногорск;sale;flat;17;17;1;37.9;9700000;;бульвар Подмосковный;6;Пенягино;
+Самолет Плюс Красногорск;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308297989/;Красногорск;sale;flat;1;4;1;32.7;6100000;; Чайковского;10;Павшино;
+Лариса Александрова;realtor;https://krasnogorsk.cian.ru/sale/flat/307264113/;Красногорск;sale;flat;6;44;2;43.0;10500000;; Авангардная;2;Пенягино;ART
+Plate LOVE PROPERTY;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/302885860/;Красногорск;sale;flat;23;25;1;36.0;8990000;; Молодежная;4;Пенягино;Молодежный (Красногорск)
+Марина Царахова;realtor;https://krasnogorsk.cian.ru/sale/flat/302469704/;Красногорск;sale;flat;6;9;2;52.0;8100000;; Карбышева;29к1;Опалиха;
+Ла Терра;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304464930/;Красногорск;sale;flat;2;6;2;51.8;10250000;;аллея Золотая;4;Опалиха;8 кленов
+Бест на Речном;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308340824/;Красногорск;sale;flat;4;25;1;37.9;7200000;;бульвар Космонавтов;5;Опалиха;Изумрудные холмы
+РИЭЛТ ХАУС;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307864054/;Красногорск;sale;flat;22;24;2;57.5;9800000;; Игоря Мерлушкина;6;Аникеевка;Изумрудные холмы
+Евгения Москвина;realtor;https://krasnogorsk.cian.ru/sale/flat/308307216/;Красногорск;sale;flat;7;8;1;35.0;10000000;; Пришвина;7;Опалиха;Опалиха О3
+Мария Евдокимова;realtor;https://krasnogorsk.cian.ru/sale/flat/305871302/;Красногорск;sale;flat;3;4;1;41.0;8250000;;аллея Золотая;4;Опалиха;8 кленов
+Анастасия Сергеева;realtor;https://krasnogorsk.cian.ru/sale/flat/304034554/;Красногорск;sale;flat;9;19;1;41.9;8800000;; Народного Ополчения;21;Павшино;
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307145886/;Красногорск;sale;flat;2;7;1;35.0;6980000;; Дежнева;8;Опалиха;
+ИНКОМ-Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307986844/;Красногорск;sale;flat;7;16;1;49.6;8300000;; Ленина;30а;Красногорская;
+Dream Realty;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307632450/;Красногорск;sale;flat;5;6;1;51.0;10250000;;аллея Золотая;2;Опалиха;8 кленов
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305595805/;Красногорск;sale;flat;16;25;2;54.0;10500000;;бульвар Космонавтов;8;Опалиха;Изумрудные холмы
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/308818820/;Красногорск;sale;flat;26;28;1;39.44;11470887;;;к8;Павшино;Тетрис ЖК
+СмениКварти.Ру;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308208032/;Красногорск;sale;flat;24;26;2;62.3;10750000;; Игоря Мерлушкина;3;Аникеевка;Изумрудные холмы
+Наталья Балескова;realtor;https://krasnogorsk.cian.ru/sale/flat/293955439/;Красногорск;sale;flat;20;25;1;32.8;6500000;;Ильинский тупик;;Павшино;Ильинойс
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/306771711/;Красногорск;sale;flat;1;6;1;33.9;8376728;;;к12;Аникеевка;Никольский Квартал Отрада ЖК
+Росэлторг;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307785281/;Красногорск;sale;flat;1;8;1;40.7;6129000;; Пришвина;15;Опалиха;Опалиха О3
+Голдвин Груп;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307442118/;Красногорск;sale;flat;4;25;1;39.4;10500000;;бульвар Красногорский;10;Пенягино;
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/307229980/;Красногорск;sale;flat;14;25;2;67.8;18109516;;;к6;Павшино;М 5 ЖК
+Юлия Чуркина;realtor;https://krasnogorsk.cian.ru/sale/flat/307662684/;Красногорск;sale;flat;8;9;1;34.2;6500000;; Ленина;47к1;Пенягино;
+СИТИ21;developer;https://krasnogorsk.cian.ru/sale/flat/263217624/;Красногорск;sale;flat;4;6;2;48.5;13862587;;аллея Золотая;1;Опалиха;8 кленов
+MOTYLEK - департамент недвижимости;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305070537/;Красногорск;sale;flat;2;6;2;45.0;8500000;; Дежнева;6;Опалиха;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307544020/;Красногорск;sale;flat;2;25;2;41.88;8290000;;;к1;Павшино;Ильинойс ЖК
+Садовое кольцо;developer;https://krasnogorsk.cian.ru/sale/flat/308818814/;Красногорск;sale;flat;21;28;2;59.5;15167978;;;к8;Павшино;Тетрис ЖК
+Лариса Абаева;realtor;https://krasnogorsk.cian.ru/sale/flat/307746124/;Красногорск;sale;flat;22;25;1;38.0;9400000;;бульвар Ильинский;2А;Пенягино;Павшинская пойма мкрн. 4
+Бест на Речном;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306154885/;Красногорск;sale;flat;3;16;1;43.0;10000000;;бульвар Павшинский;5;Пенягино;
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/306771716/;Красногорск;sale;flat;1;6;1;22.5;5956902;;;к12;Аникеевка;Никольский Квартал Отрада ЖК
+Олеся Захарова;realtor;https://krasnogorsk.cian.ru/sale/flat/301087531/;Красногорск;sale;flat;21;25;2;55.4;10269000;;бульвар Космонавтов;7;Опалиха;Изумрудные холмы
+МГСН;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306123976/;Красногорск;sale;flat;15;17;2;50.6;9900000;; Народного Ополчения;2Бк2;Митино;Брусчатый поселок
+Самолет;developer;https://krasnogorsk.cian.ru/sale/flat/308656171/;Красногорск;sale;flat;11;30;1;46.7;18294485;;;20;Липовая Роща;Спутник ЖК
+Алефтина Кадырова;realtor;https://krasnogorsk.cian.ru/sale/flat/308061870/;Красногорск;sale;flat;6;9;2;52.2;8250000;; Ленина;27;Павшино;
+Монолит Столица;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308113214/;Красногорск;sale;flat;5;17;1;53.0;10000000;; Жуковского;11;Павшино;Grand Hills
+СИТИ21;developer;https://krasnogorsk.cian.ru/sale/flat/276781350/;Красногорск;sale;flat;1;6;1;39.0;12280212;;аллея Золотая;1;Опалиха;8 кленов
+Империя;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/297379526/;Красногорск;sale;flat;9;13;1;38.0;8600000;;Строительная ;3;Павшино;
+WHITE BROKER;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308350770/;Красногорск;sale;flat;6;8;2;61.0;7700000;; Алексеевская;3;Аникеевка;Опалиха Парк
+Отрада Вилладж;representative_developer;https://krasnogorsk.cian.ru/sale/flat/299375286/;Красногорск;sale;flat;6;6;1;36.1;7438780;;;к13;Аникеевка;Никольский Квартал Отрада ЖК
+Ольга Руснак;realtor;https://krasnogorsk.cian.ru/sale/flat/302732300/;Красногорск;sale;flat;3;12;2;60.0;9600000;; Ткацкой фабрики;23;Аникеевка;
+Самолет Плюс Красногорск;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303637448/;Красногорск;sale;flat;1;9;2;43.5;7950000;; 50 лет Октября;2/37;Красногорская;
+ЕГСН Продажа;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/302954551/;Красногорск;sale;flat;10;10;2;50.9;8499999;; Братьев Горожанкиных;14;Опалиха;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304107129/;Красногорск;sale;flat;14;28;1;34.8;8400000;;;к18;Липовая Роща;Спутник ЖК
+Самолет Плюс Москва ЦАО;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307442227/;Красногорск;sale;flat;7;9;2;49.9;8400000;; Ленина;51;Опалиха;
+Сергей Кириллов;realtor;https://krasnogorsk.cian.ru/sale/flat/308539965/;Красногорск;sale;flat;7;22;1;39.1;8450000;;бульвар Южный;6;Павшино;
+Денис Александров;realtor;https://krasnogorsk.cian.ru/sale/flat/297206789/;Красногорск;sale;flat;5;17;1;39.5;8400000;;бульвар Южный;2;Павшино;
+ОГРК;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308570942/;Красногорск;sale;flat;15;24;2;41.8;8500000;;;;Красногорская;Ильинойс ЖК
+Качанова и партнеры;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307128810/;Красногорск;sale;flat;5;32;1;36.5;8500000;; Липовой Рощи;4к1;Мякинино;Sky Sputnik
+Наталия Секриеру;realtor;https://krasnogorsk.cian.ru/sale/flat/308241256/;Красногорск;sale;flat;6;9;2;44.3;8500000;; Кирова;28;Пенягино;
+Евгений Добромыслов;realtor;https://krasnogorsk.cian.ru/sale/flat/308595811/;Красногорск;sale;flat;20;24;1;46.1;8500000;;бульвар Космонавтов;1;Опалиха;Изумрудные холмы
+Татьяна Загоренко;realtor;https://krasnogorsk.cian.ru/sale/flat/308367276/;Красногорск;sale;flat;12;33;1;31.4;8500000;; Липовой Рощи;2к3;Мякинино;Sky Sputnik
+FN Realty;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306824560/;Красногорск;sale;flat;2;4;2;43.6;8500000;; Геологов;4;Опалиха;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306919240/;Красногорск;sale;flat;10;24;1;37.6;8500000;; Игоря Мерлушкина;12;Опалиха;Изумрудные холмы
+Магазин квартир;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307936972/;Красногорск;sale;flat;20;22;1;40.0;8500000;;бульвар Южный;6;Павшино;
+Самолет Плюс Красногорск;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304820490/;Красногорск;sale;flat;9;17;1;38.5;8500000;; Королева;9;Павшино;
+Самолет плюс;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/301528165/;Красногорск;sale;flat;10;31;1;35.65;8500000;;;к14;Липовая Роща;Спутник ЖК
+Надежда Подольская;realtor;https://krasnogorsk.cian.ru/sale/flat/291598917/;Красногорск;sale;flat;6;12;2;47.4;8500000;; Комсомольская;45;Красногорская;
+Dream Realty;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307679435/;Красногорск;sale;flat;3;4;1;43.0;8600000;;аллея Золотая;2;Опалиха;8 кленов
+Major-Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307706427/;Красногорск;sale;flat;13;17;1;46.0;8600000;;Успенская ;24;Опалиха;
+ZIP Realty;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308786221/;Красногорск;sale;flat;2;6;2;40.3;8600000;;аллея Золотая;4;Опалиха;8 кленов
+Павел Колеевский;realtor;https://krasnogorsk.cian.ru/sale/flat/308152152/;Красногорск;sale;flat;8;8;1;32.0;8600000;; Пришвина;9;Опалиха;Опалиха О3
+Андрей  Грибанов;realtor;https://krasnogorsk.cian.ru/sale/flat/308787507/;Красногорск;sale;flat;10;14;2;54.0;8700000;; Карбышева;17к2;Опалиха;
+Татьяна Иванова;realtor;https://krasnogorsk.cian.ru/sale/flat/307725376/;Красногорск;sale;flat;7;17;1;44.2;9150000;; Народного Ополчения;2Бк2;Митино;Брусчатый поселок
+ID 33031;realtor;https://krasnogorsk.cian.ru/sale/flat/306906790/;Красногорск;sale;flat;2;16;1;39.0;9200000;;бульвар Павшинский;5;Пенягино;
+Илья Дулепа;realtor;https://krasnogorsk.cian.ru/sale/flat/305686214/;Красногорск;sale;flat;5;5;2;44.6;9200000;; Циолковского;18;Красногорская;
+Акапелла недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/294829578/;Красногорск;sale;flat;3;25;1;46.4;9300000;;Заводская ;18к3;Павшино;мкрн. Южный (Ул. Заводская корп. 31)
+Наталья Сиденко;realtor;https://krasnogorsk.cian.ru/sale/flat/301382913/;Красногорск;sale;flat;12;26;2;62.4;9300000;; Игоря Мерлушкина;3;Опалиха;Изумрудные холмы
+Самолет Плюс;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306658426/;Красногорск;sale;flat;10;34;1;35.2;9300000;;;к13;Липовая Роща;Спутник ЖК
+CENTURY 21 Milestone;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/302464078/;Красногорск;sale;flat;8;17;1;42.4;9300000;;бульвар Павшинский;4;Пенягино;
+Рыков Риэлти;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/299320827/;Красногорск;sale;flat;3;8;2;44.95;9250000;; Пришвина;5;Опалиха;Опалиха О3
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307007876/;Красногорск;sale;flat;10;12;1;34.6;9400000;;бульвар Серебряный;1;Опалиха;Серебрица
+Городские Сделки;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306085653/;Красногорск;sale;flat;22;25;2;49.0;9350000;;бульвар Космонавтов;12;Опалиха;Изумрудные холмы
+Семен Миронов;realtor;https://krasnogorsk.cian.ru/sale/flat/307937082/;Красногорск;sale;flat;4;4;2;59.0;9350000;;Вокзальная ;1;Павшино;
+МИЭЛЬ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308767405/;Красногорск;sale;flat;14;24;1;41.8;9500000;; Игоря Мерлушкина;10;Аникеевка;Изумрудные холмы
+ГОРОБМЕН;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308109110/;Красногорск;sale;flat;12;26;1;39.0;9500000;;бульвар Ильинский;2А;Пенягино;Павшинская пойма мкрн. 4
+ИНКОМ-Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/300575043/;Красногорск;sale;flat;5;5;2;43.9;9500000;;Парковая ;1Г;Митино;Лесная сказка
+Анна Кислюк;realtor;https://krasnogorsk.cian.ru/sale/flat/302085206/;Красногорск;sale;flat;17;26;2;52.0;9500000;;бульвар Космонавтов;5;Опалиха;Изумрудные холмы
+МИЭЛЬ офис Зеленоград;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307472819/;Красногорск;sale;flat;1;3;1;37.1;9500000;;аллея Римского-Корсакова;34;Аникеевка;
+LaRichesse;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/302883418/;Красногорск;sale;flat;7;24;2;54.2;9500000;;бульвар Космонавтов;17;Опалиха;Изумрудные холмы
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305532606/;Красногорск;sale;flat;17;17;1;43.6;9500000;;бульвар Павшинский;1;Пенягино;
+Family Estate;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308006467/;Красногорск;sale;flat;9;10;1;51.3;9500000;;Светлая ;9;Опалиха;
+Юлия Соколова;realtor;https://krasnogorsk.cian.ru/sale/flat/276203142/;Красногорск;sale;flat;5;12;2;54.0;9500000;;бульвар Серебряный;2;Опалиха;Серебрица
+LUXESTATE;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304769092/;Красногорск;sale;flat;3;17;1;41.4;9500000;;Советская ;1;Павшино;Левитан
+Премиум;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/301294562/;Красногорск;sale;flat;16;17;2;53.4;9649999;; 50 лет Октября;7б;Красногорская;
+Ольга Морозова;realtor;https://krasnogorsk.cian.ru/sale/flat/308345565/;Красногорск;sale;flat;2;12;1;45.0;9600000;;Заводская ;4;Павшино;
+ВЫСОТКА;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308577779/;Красногорск;sale;flat;9;14;1;37.8;9600000;; Имени Зверева;4;Пенягино;
+Монолит Столица;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/296643404/;Красногорск;sale;flat;2;8;1;31.0;9550000;; Пришвина;14;Опалиха;
+Валентина Лысова;realtor;https://krasnogorsk.cian.ru/sale/flat/295539839/;Красногорск;sale;flat;3;17;2;48.0;9600000;;бульвар Павшинский;38;Пенягино;
+Виолетта Ястржембская;realtor;https://krasnogorsk.cian.ru/sale/flat/304397913/;Красногорск;sale;flat;3;15;1;64.7;9700000;;бульвар Павшинский;38;Пенягино;
+МИЭЛЬ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308557734/;Красногорск;sale;flat;14;17;1;42.0;9700000;;бульвар Павшинский;1;Пенягино;
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304202183/;Красногорск;sale;flat;9;9;2;48.9;9650000;;Заводская ;27;Красногорская;
+Елена Лебедева;realtor;https://krasnogorsk.cian.ru/sale/flat/306531518/;Красногорск;sale;flat;19;25;1;37.3;9700000;; Молодежная;4;Пенягино;Молодежный (Красногорск)
+Профессионал Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307271705/;Красногорск;sale;flat;3;16;2;52.0;9800000;;Заводская ;29;Красногорская;
+Адреса;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306594087/;Красногорск;sale;flat;14;14;1;41.9;9800000;;бульвар Ильинский;4;Пенягино;
+Самолет Плюс Москва ЦАО;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307662171/;Красногорск;sale;flat;2;16;1;42.1;9890000;; Спасская;4;Липовая Роща;
+Профессионал Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/302979467/;Красногорск;sale;flat;2;9;2;50.0;9890000;;Заводская ;27;Красногорская;
+ИНКОМ-Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307753042/;Красногорск;sale;flat;2;3;2;54.0;9900000;;аллея Римского-Корсакова;34;Аникеевка;
+Ирина Лискина;realtor;https://krasnogorsk.cian.ru/sale/flat/306399684/;Красногорск;sale;flat;19;45;2;38.0;9900000;; Авангардная;6;Пенягино;ART
+Светлана Хрипунова;realtor;https://krasnogorsk.cian.ru/sale/flat/302242394/;Красногорск;sale;flat;1;4;2;70.0;9900000;;Октябрьская ;7;Павшино;
+Московские Огни;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306360878/;Красногорск;sale;flat;32;44;1;31.9;9900000;; Авангардная;6;Пенягино;ART
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305511710/;Красногорск;sale;flat;7;24;1;48.5;9900000;;бульвар Космонавтов;1;Опалиха;Изумрудные холмы
+Ваш адрес;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307708937/;Красногорск;sale;flat;14;45;1;39.3;9999000;; Авангардная;10;Пенягино;ART
+ССК Риэлти;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/300346612/;Красногорск;sale;flat;2;24;2;42.2;10000000;; Игоря Мерлушкина;12;Опалиха;Изумрудные холмы
+CENTURY21 Союз;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307057144/;Красногорск;sale;flat;17;43;2;37.4;9950000;; Авангардная;6;Пенягино;ART
+Сергей Ногтев;realtor;https://krasnogorsk.cian.ru/sale/flat/307874126/;Красногорск;sale;flat;14;19;1;47.0;10500000;;Речная ;20к2;Митино;Красногорская Ривьера
+Людмила Тырлышкина;realtor;https://krasnogorsk.cian.ru/sale/flat/300508233/;Красногорск;sale;flat;8;17;1;42.0;10450000;; Спасская;8;Пенягино;
+Макромир;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/302599019/;Красногорск;sale;flat;19;25;2;54.0;10700000;;бульвар Космонавтов;7;Опалиха;Изумрудные холмы
+ИНКОМ-Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/301267912/;Красногорск;sale;flat;14;17;1;49.9;10700000;;бульвар Красногорский;11;Пенягино;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306774265/;Красногорск;sale;flat;3;25;2;52.0;10700000;; Игоря Мерлушкина;2;Опалиха;Изумрудные холмы
+Екатерина Яловецкая;realtor;https://krasnogorsk.cian.ru/sale/flat/308344590/;Красногорск;sale;flat;8;8;2;45.6;10700000;; Пришвина;5;Опалиха;Опалиха О3
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307101077/;Красногорск;sale;flat;13;24;1;46.5;10800000;; Игоря Мерлушкина;12;Аникеевка;Изумрудные холмы
+Сергей Гризодуб;realtor;https://krasnogorsk.cian.ru/sale/flat/308646327/;Красногорск;sale;flat;3;8;1;40.5;10800000;;бульвар Серебряный;3;Опалиха;Серебрица
+Ирина Чернятчик;realtor;https://krasnogorsk.cian.ru/sale/flat/307641084/;Красногорск;sale;flat;13;14;2;54.0;10800000;;Ильинское шоссе;12;Павшино;
+Галина Ротару;realtor;https://krasnogorsk.cian.ru/sale/flat/294995027/;Красногорск;sale;flat;15;17;2;73.2;10800000;;Успенская ;24;Опалиха;
+ИП Шакарян Э.А.;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305468057/;Красногорск;sale;flat;2;6;2;58.4;10800000;;Новая Московская ;49;Опалиха;
+Игорь Повереный;realtor;https://krasnogorsk.cian.ru/sale/flat/308367232/;Красногорск;sale;flat;16;16;2;53.1;10800000;;переулок Оптический;3к1;Павшино;
+Керим Керимов;realtor;https://krasnogorsk.cian.ru/sale/flat/308017184/;Красногорск;sale;flat;3;19;1;37.3;10750000;;бульвар Красногорский;23к3;Мякинино;Спасский Мост
+Наталья Счётчикова;realtor;https://krasnogorsk.cian.ru/sale/flat/307540526/;Красногорск;sale;flat;3;9;1;61.3;10800000;;бульвар Павшинский;40;Пенягино;
+Дельта;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305684437/;Красногорск;sale;flat;17;30;2;42.4;10999000;;;24;Липовая Роща;Спутник ЖК
+Самолет Плюс Москва ЦАО;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/301357414/;Красногорск;sale;flat;14;33;1;41.9;10900000;; Липовой Рощи;1к1;Липовая Роща;Sky Sputnik
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308935494/;Красногорск;sale;flat;3;24;2;66.8;10900000;; Игоря Мерлушкина;6;Аникеевка;Изумрудные холмы
+Елена Гаврилова;realtor;https://krasnogorsk.cian.ru/sale/flat/302231898/;Красногорск;sale;flat;8;22;2;43.3;10900000;;бульвар Подмосковный;10;Пенягино;Павшинская пойма мкр. 2
+Александра Волчек;realtor;https://krasnogorsk.cian.ru/sale/flat/307369922/;Красногорск;sale;flat;8;19;1;47.7;10900000;;Речная ;20к2;Митино;Красногорская Ривьера
+ФСК Агент;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306571362/;Красногорск;sale;flat;13;17;1;42.3;10900000;;бульвар Красногорский;13к2;Пенягино;
+ZIP Realty;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308870700/;Красногорск;sale;flat;4;6;2;51.2;10900000;;аллея Золотая;4;Опалиха;8 кленов
+ЕГСН Продажа;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307391750/;Красногорск;sale;flat;18;25;2;51.4;11000000;; Молодежная;4;Пенягино;Молодежный (Красногорск)
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/299328349/;Красногорск;sale;flat;14;22;1;50.8;11000000;;бульвар Подмосковный;11;Пенягино;
+PORTAL ESTATE;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307000194/;Красногорск;sale;flat;6;19;1;47.7;11000000;;Речная ;20к2;Митино;Красногорская Ривьера
+Исток;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308231625/;Красногорск;sale;flat;10;33;1;38.2;11000000;; Видная;1;Митино;Митино парк
+Just Estate;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/302240742/;Красногорск;sale;flat;6;24;2;58.2;11000000;;бульвар Космонавтов;4к1;Опалиха;Изумрудные холмы
+Сергей Вячеславович Ермаков;realtor;https://krasnogorsk.cian.ru/sale/flat/307086901/;Красногорск;sale;flat;11;14;2;64.1;11000000;;Успенская ;8;Красногорская;
+Вертекс;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/302073478/;Красногорск;sale;flat;16;19;1;46.4;11000000;;Речная ;20к2;Митино;Красногорская Ривьера
+Марина Качалова;realtor;https://krasnogorsk.cian.ru/sale/flat/289488138/;Красногорск;sale;flat;29;33;2;38.0;11000000;; Большая Воскресенская;1;Павшино;Тетрис
+Контакт Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308122974/;Красногорск;sale;flat;21;26;2;58.0;11200000;;бульвар Космонавтов;11;Опалиха;Изумрудные холмы
+Самолет Плюс;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306564231/;Красногорск;sale;flat;28;34;2;49.85;11200000;;;к15;Липовая Роща;Спутник ЖК
+Место;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308860097/;Красногорск;sale;flat;10;17;1;42.3;11299000;;бульвар Красногорский;19;Липовая Роща;
+Оксана Александрова;realtor;https://krasnogorsk.cian.ru/sale/flat/303398787/;Красногорск;sale;flat;27;32;1;40.9;11200000;; Липовой Рощи;2к1;Мякинино;Sky Sputnik
+Вотчина;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303681832/;Красногорск;sale;flat;27;30;1;38.0;11200000;; Большая Воскресенская;1;Павшино;Тетрис
+Вотчина;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307224695/;Красногорск;sale;flat;27;30;2;38.0;11200000;; Большая Воскресенская;1;Павшино;Тетрис
+Дом+;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308057010/;Красногорск;sale;flat;3;17;1;42.0;11200000;; Спасская;1к3;Пенягино;Спасский Мост
+Марат Мкртумов;realtor;https://krasnogorsk.cian.ru/sale/flat/308860606/;Красногорск;sale;flat;7;12;2;55.3;11300000;; Ленина;5;Красногорская;
+Дом+;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/297644756/;Красногорск;sale;flat;9;19;1;42.0;11300000;; Спасская;1к3;Пенягино;Спасский Мост
+Мои Столицы - Центр;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307660967/;Красногорск;sale;flat;6;17;2;51.3;11300000;; Имени Зверева;6;Пенягино;
+ЕСН;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307986534/;Красногорск;sale;flat;10;17;1;42.0;11300000;;бульвар Красногорский;19;Липовая Роща;
+Самолет Плюс Мытищи;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/300440232/;Красногорск;sale;flat;22;24;1;32.7;11300000;;;к2;Липовая Роща;Квартал Строгино ЖК
+Александр Зернов;realtor;https://krasnogorsk.cian.ru/sale/flat/307544315/;Красногорск;sale;flat;23;23;1;49.3;11300000;;Заводская ;18к3;Павшино;мкрн. Южный (Ул. Заводская корп. 31)
+ID 71259408;realtor;https://krasnogorsk.cian.ru/sale/flat/306506791/;Красногорск;sale;flat;6;22;2;58.0;11300000;;бульвар Южный;6;Павшино;
+ЕГСН Продажа;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306313307/;Красногорск;sale;flat;6;12;2;57.9;11500000;; Ткацкой фабрики;23;Аникеевка;
+EstateLiga;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303835668/;Красногорск;sale;flat;12;34;2;50.0;11500000;;;к15;Липовая Роща;Спутник ЖК
+ИНКОМ-Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308566280/;Красногорск;sale;flat;9;44;2;44.3;11500000;; Авангардная;10;Пенягино;ART
+НДВ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307182247/;Красногорск;sale;flat;5;8;2;60.5;11500000;;бульвар Серебряный;4;Опалиха;Серебрица
+Landis;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308095874/;Красногорск;sale;flat;24;25;2;35.6;11500000;; Молодежная;4;Пенягино;Молодежный (Красногорск)
+Монолит Столица;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306512571/;Красногорск;sale;flat;19;23;2;46.0;11500000;; Спасская;1к2;Пенягино;Спасский Мост
+Александр Филатов;realtor;https://krasnogorsk.cian.ru/sale/flat/307019716/;Красногорск;sale;flat;2;10;2;49.0;11500000;; Дежнева;6;Опалиха;
+Михаил Мальцев;realtor;https://krasnogorsk.cian.ru/sale/flat/304155928/;Красногорск;sale;flat;2;25;1;52.2;11490000;;бульвар Подмосковный;14;Мякинино;Павшинская пойма мкр. 2
+Татьяна Зрелова;realtor;https://krasnogorsk.cian.ru/sale/flat/308760185/;Красногорск;sale;flat;19;25;2;63.3;11490000;;бульвар Космонавтов;8;Опалиха;Изумрудные холмы
+ГОРОБМЕН;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307429770/;Красногорск;sale;flat;7;17;2;60.1;11600000;;бульвар Красногорский;13к1;Пенягино;
+ПОМИДОР-Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306272719/;Красногорск;sale;flat;25;26;2;62.3;11600000;; Игоря Мерлушкина;3;Опалиха;Изумрудные холмы
+Александра Сорокина;realtor;https://krasnogorsk.cian.ru/sale/flat/308254708/;Красногорск;sale;flat;25;25;2;62.0;11600000;Красногорск; Игоря Мерлушкина;3;;Изумрудные холмы
+НДВ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/301717179/;Красногорск;sale;flat;8;17;1;38.0;11700000;;бульвар Подмосковный;3;Пенягино;
+Дом+;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/293530499/;Красногорск;sale;flat;13;25;1;50.0;11699999;; Жуковского;19;Павшино;RED HILLS
+Татьяна Феликсова;realtor;https://krasnogorsk.cian.ru/sale/flat/304734232/;Красногорск;sale;flat;3;8;2;48.0;11650000;; Пришвина;2;Опалиха;Опалиха О3
+Покупатель;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305327323/;Красногорск;sale;flat;5;6;2;46.1;11800000;; Пришвина;9;Опалиха;Опалиха О3
+Наталья Тамахина;realtor;https://krasnogorsk.cian.ru/sale/flat/307782422/;Красногорск;sale;flat;9;15;1;41.0;11800000;;бульвар Красногорский;23к1;Волоколамская;Спасский Мост
+Вертекс;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308072008/;Красногорск;sale;flat;10;17;2;52.0;11800000;; Пушкинская;21;Красногорская;
+Альфа недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305599163/;Красногорск;sale;flat;12;17;2;65.0;11800000;;Успенская ;32;Павшино;
+На Петровке;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/302899729/;Красногорск;sale;flat;9;10;2;49.8;11990000;;Железнодорожная ;38;Красногорская;
+Ирина Берёзкина;realtor;https://krasnogorsk.cian.ru/sale/flat/302116952/;Красногорск;sale;flat;5;19;1;37.9;11900000;;бульвар Красногорский;23к3;Мякинино;Спасский Мост
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305393450/;Красногорск;sale;flat;18;18;1;50.6;11990000;;бульвар Подмосковный;8;Пенягино;
+Евгений Беляков;realtor;https://krasnogorsk.cian.ru/sale/flat/300895145/;Красногорск;sale;flat;5;17;2;60.3;11900000;;бульвар Павшинский;4;Пенягино;
+Олег Финогеев;realtor;https://krasnogorsk.cian.ru/sale/flat/307965396/;Красногорск;sale;flat;25;25;1;39.0;11900000;;бульвар Красногорский;26;Мякинино;Павшинская пойма мкрн. 4
+Дельта;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304190010/;Красногорск;sale;flat;19;30;2;41.4;12000000;;;24;Липовая Роща;Спутник ЖК
+EstateLiga;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303835667/;Красногорск;sale;flat;12;34;2;56.0;12000000;;;к15;Липовая Роща;Спутник ЖК
+Татьяна Старовойт;realtor;https://krasnogorsk.cian.ru/sale/flat/303611149/;Красногорск;sale;flat;17;17;2;60.3;12000000;;бульвар Красногорский;13к2;Пенягино;
+Серебряный век;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307965286/;Красногорск;sale;flat;2;24;2;64.9;12000000;;бульвар Космонавтов;1;Опалиха;Изумрудные холмы
+СмениКварти.Ру;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308671152/;Красногорск;sale;flat;1;9;2;50.0;12000000;; Дежнева;11;Опалиха;Опалиха О2
+Держава;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303279245/;Красногорск;sale;flat;34;45;1;36.7;12000000;; Авангардная;10;Пенягино;ART
+МИЭЛЬ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304958876/;Красногорск;sale;flat;15;18;1;47.6;12000000;;Успенская ;12;Красногорская;
+Валентина Лысова;realtor;https://krasnogorsk.cian.ru/sale/flat/303715790/;Красногорск;sale;flat;5;15;2;60.0;12000000;;бульвар Павшинский;36;Пенягино;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306473793/;Красногорск;sale;flat;40;44;2;42.7;12000000;; Авангардная;8;Пенягино;ART
+Антон Просеков;realtor;https://krasnogorsk.cian.ru/sale/flat/308943293/;Красногорск;sale;flat;22;25;2;59.0;12000000;;бульвар Космонавтов;7;Опалиха;Изумрудные холмы
+Александр Табунов;realtor;https://krasnogorsk.cian.ru/sale/flat/307278868/;Красногорск;sale;flat;8;16;2;60.0;12900000;;бульвар Павшинский;5;Пенягино;
+Михаил Гайсинский;realtor;https://krasnogorsk.cian.ru/sale/flat/308499714/;Красногорск;sale;flat;3;6;2;66.6;12900000;;аллея Золотая;4;Опалиха;8 кленов
+PRO ОБМЕН;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303050168/;Красногорск;sale;flat;12;28;1;48.0;13000000;;бульвар Красногорский;25;Волоколамская;Спасский Мост
+Самолет Плюс Москва ЦАО;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308759880/;Красногорск;sale;flat;19;22;2;57.4;13000000;;бульвар Южный;6;Павшино;
+Тамара Певная;realtor;https://krasnogorsk.cian.ru/sale/flat/306666219/;Красногорск;sale;flat;7;14;2;59.0;13000000;; Братьев Горожанкиных;15;Опалиха;
+Евгений Кабко;realtor;https://krasnogorsk.cian.ru/sale/flat/306733834/;Красногорск;sale;flat;19;23;2;76.6;13000000;;бульвар Подмосковный;11;Пенягино;
+Самолет Плюс;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306698013/;Красногорск;sale;flat;17;24;1;41.0;13000000;;;к1;Строгино;Квартал Строгино ЖК
+Простор-недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/295397249/;Красногорск;sale;flat;21;30;2;46.8;13000000;;бульвар Подмосковный;13;Мякинино;
+Самолет Плюс МСК-Север;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/302408518/;Красногорск;sale;flat;2;16;2;60.2;13000000;; Спасская;4;Липовая Роща;
+Just Estate;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303931844/;Красногорск;sale;flat;14;24;2;59.6;13000000;; Игоря Мерлушкина;8;Опалиха;Изумрудные холмы
+Eggert Estate;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308486793/;Красногорск;sale;flat;5;23;2;52.0;13150000;;бульвар Красногорский;17;Мякинино;Павшинская пойма мкр. 2
+Валерия Сухинина;realtor;https://krasnogorsk.cian.ru/sale/flat/301632312/;Красногорск;sale;flat;9;45;2;40.0;13200000;; Авангардная;6;Пенягино;ART
+Just Estate;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303017482/;Красногорск;sale;flat;7;25;2;63.7;13300000;;Ильинское шоссе;14;Павшино;Ильинский парк
+Роман Протасов;realtor;https://krasnogorsk.cian.ru/sale/flat/303935579/;Красногорск;sale;flat;14;17;2;60.6;13300000;;бульвар Павшинский;4;Пенягино;
+ЕГСН Продажа;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308165844/;Красногорск;sale;flat;19;32;2;56.3;13400000;; Липовой Рощи;4к3;Липовая Роща;Sky Sputnik
+МИЭЛЬ Офис Пречистенка;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303049926/;Красногорск;sale;flat;20;28;2;56.62;13500000;;;к18;Липовая Роща;Спутник ЖК
+Ольга Булкина;realtor;https://krasnogorsk.cian.ru/sale/flat/308895466/;Красногорск;sale;flat;16;28;2;56.2;13500000;;;к17;Мякинино;Спутник ЖК
+Елена Киреева;realtor;https://krasnogorsk.cian.ru/sale/flat/268625423/;Красногорск;sale;flat;8;21;2;65.3;13500000;;Павшинская ;2;Павшино;Павшинский
+Сергей Сергеев;realtor;https://krasnogorsk.cian.ru/sale/flat/308302086/;Красногорск;sale;flat;24;44;2;55.0;13475000;; Авангардная;10;Пенягино;ART
+ИП Шакарян Э.А.;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306633467/;Красногорск;sale;flat;2;27;2;52.9;13400000;; Молодежная;4;Пенягино;Молодежный (Красногорск)
+НДВ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306504815/;Красногорск;sale;flat;11;17;2;51.5;13500000;;бульвар Павшинский;12;Пенягино;
+Самолет Плюс;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308439847/;Красногорск;sale;flat;4;31;2;49.12;13490000;;;к13;Строгино;Спутник ЖК
+Самолет Плюс;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306781458/;Красногорск;sale;flat;18;31;2;55.85;13500000;;;к13;Липовая Роща;Спутник ЖК
+Валентина Лысова;realtor;https://krasnogorsk.cian.ru/sale/flat/295540703/;Красногорск;sale;flat;3;17;2;70.0;13500000;;бульвар Павшинский;38;Пенягино;
+Ольга Руснак;realtor;https://krasnogorsk.cian.ru/sale/flat/305593658/;Красногорск;sale;flat;12;18;2;64.5;13500000;;Успенская ;32;Павшино;
+Руслан Кадиров;realtor;https://krasnogorsk.cian.ru/sale/flat/308362576/;Красногорск;sale;flat;23;35;2;48.0;13500000;;;22;Строгино;Спутник ЖК
+ПРЕЗИДЕНТ РИЭЛТИ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/301126141/;Красногорск;sale;flat;4;25;2;65.0;13699000;;бульвар Космонавтов;6;Опалиха;Изумрудные холмы
+ССК Риэлти;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306209823/;Красногорск;sale;flat;10;16;2;68.3;13700000;;бульвар Павшинский;20;Пенягино;
+Вертекс;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308296416/;Красногорск;sale;flat;5;17;2;64.7;14500000;; Пушкинская;21;Красногорская;
+Ольга Кожемякина;realtor;https://krasnogorsk.cian.ru/sale/flat/306005862/;Красногорск;sale;flat;20;20;2;74.2;14590000;;бульвар Подмосковный;12;Пенягино;Павшинская пойма мкр. 2
+Валерия Сухинина;realtor;https://krasnogorsk.cian.ru/sale/flat/306584953/;Красногорск;sale;flat;7;45;2;43.5;14700000;; Авангардная;6;Пенягино;ART
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/300095675/;Красногорск;sale;flat;2;17;2;72.3;14900000;;Парковая ;8;Павшино;Парковые Аллеи
+Татьяна Селиверстова;realtor;https://krasnogorsk.cian.ru/sale/flat/308044874/;Красногорск;sale;flat;13;23;2;74.2;14800000;; Спасская;1к2;Пенягино;Спасский Мост
+МЕЗОН;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/282766515/;Красногорск;sale;flat;16;18;2;62.0;15000000;;Заводская ;18к2;Павшино;мкрн. Южный (Ул. Заводская корп. 31)
+Анна Кислюк;realtor;https://krasnogorsk.cian.ru/sale/flat/307748589/;Красногорск;sale;flat;3;26;2;65.0;14990000;;бульвар Красногорский;10;Пенягино;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307063642/;Красногорск;sale;flat;14;17;2;73.2;15100000;;бульвар Павшинский;11;Пенягино;
+Елена Реукова;realtor;https://krasnogorsk.cian.ru/sale/flat/306770877/;Красногорск;sale;flat;5;25;2;71.8;15300000;;бульвар Космонавтов;12;Опалиха;Изумрудные холмы
+МИЦ-Столичный ипотечный центр недвижимости;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/297249479/;Красногорск;sale;flat;4;18;1;46.0;15400000;;бульвар Красногорский;23к3;Мякинино;Спасский Мост
+ГОД-Риэлти;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306815347/;Красногорск;sale;flat;11;20;2;60.0;15300000;;бульвар Красногорский;48;Волоколамская;Павшинская пойма мкрн. 4
+Алексей Зубинов;realtor;https://krasnogorsk.cian.ru/sale/flat/298952982/;Красногорск;sale;flat;2;25;2;57.7;15500000;;бульвар Красногорский;34;Мякинино;Павшинская пойма мкрн. 4
+Адреса;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/280688223/;Красногорск;sale;flat;14;24;2;72.0;15600000;; Игоря Мерлушкина;6;Аникеевка;Изумрудные холмы
+Наталья Сысоева;realtor;https://krasnogorsk.cian.ru/sale/flat/295043922/;Красногорск;sale;flat;17;17;1;60.0;15800000;;бульвар Красногорский;14;Пенягино;Павшинская пойма мкрн. 4
+ГОРОБМЕН;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307533923/;Красногорск;sale;flat;17;17;2;65.4;15750000;; Спасская;1к3;Пенягино;Спасский Мост
+ИНКОМ-Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304187617/;Красногорск;sale;flat;24;25;2;71.0;15800000;;бульвар Космонавтов;13;Опалиха;Изумрудные холмы
+Анна Кислюк;realtor;https://krasnogorsk.cian.ru/sale/flat/303391368/;Красногорск;sale;flat;8;17;2;60.9;15800000;;бульвар Павшинский;4;Пенягино;
+Татьяна Амелина;realtor;https://krasnogorsk.cian.ru/sale/flat/305464527/;Красногорск;sale;flat;5;19;2;70.0;15800000;; Спасская;1к3;Пенягино;Спасский Мост
+ЕГСН Продажа;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/283349818/;Красногорск;sale;flat;2;22;2;70.0;16000000;;бульвар Подмосковный;12;Липовая Роща;Павшинская пойма мкр. 2
+Простор-недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308798713/;Красногорск;sale;flat;11;19;2;64.3;16000000;;Речная ;20к2;Митино;Красногорская Ривьера
+Недвижимость - Ближнее Переделкино;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/301134376/;Красногорск;sale;flat;8;15;2;70.5;15900000;;Ильинское шоссе;6;Павшино;
+Марина Кондрикова;realtor;https://krasnogorsk.cian.ru/sale/flat/304340768/;Красногорск;sale;flat;14;25;2;72.0;16000000;; Спасская;1к1;Пенягино;Спасский Мост
+Андрей Зарубин;realtor;https://krasnogorsk.cian.ru/sale/flat/302169847/;Красногорск;sale;flat;4;32;2;62.4;16000000;; Липовой Рощи;6к2;Мякинино;Sky Sputnik
+МОЯ СТОЛИЦА;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307090698/;Красногорск;sale;flat;36;45;2;43.0;16250000;; Авангардная;2;Пенягино;ART
+Сергей Стахов;realtor;https://krasnogorsk.cian.ru/sale/flat/307336564/;Красногорск;sale;flat;21;22;2;74.0;16250000;;бульвар Ильинский;8;Пенягино;
+Геометрия;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/301310398/;Красногорск;sale;flat;4;17;2;60.3;16500000;;бульвар Красногорский;19;Липовая Роща;
+ИНКОМ-Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308766058/;Красногорск;sale;flat;5;22;2;70.8;16500000;;бульвар Ильинский;8;Пенягино;
+Юрий Васильев;realtor;https://krasnogorsk.cian.ru/sale/flat/301756781/;Красногорск;sale;flat;4;25;2;81.5;16500000;;Ильинское шоссе;18;Павшино;Ильинский парк
+МИЭЛЬ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304691254/;Красногорск;sale;flat;3;17;2;68.0;16500000;; Спасская;1к3;Пенягино;Спасский Мост
+Яна Котова;realtor;https://krasnogorsk.cian.ru/sale/flat/305071019/;Красногорск;sale;flat;14;19;2;68.0;16500000;;Речная ;20к2;Митино;Красногорская Ривьера
+Елена Сот;realtor;https://krasnogorsk.cian.ru/sale/flat/269412851/;Красногорск;sale;flat;17;20;2;60.0;16700000;;бульвар Красногорский;50;Волоколамская;Павшинская пойма мкрн. 4
+ID 12915847;homeowner;https://krasnogorsk.cian.ru/sale/flat/304970891/;Красногорск;sale;flat;1;8;2;41.1;16700000;; Пришвина;15;Опалиха;Опалиха О3
+ИНКОМ-Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306660424/;Красногорск;sale;flat;9;25;2;63.0;16990000;;Вокзальная ;17А;Павшино;Красногорские ключи
+Роман Тихомиров;realtor;https://krasnogorsk.cian.ru/sale/flat/306845867/;Красногорск;sale;flat;14;25;2;88.4;17100000;;бульвар Красногорский;9;Пенягино;
+Александр Глухов;realtor;https://krasnogorsk.cian.ru/sale/flat/307981174/;Красногорск;sale;flat;26;29;2;59.0;17500000;;бульвар Красногорский;23к2;Волоколамская;Спасский Мост
+Простор-недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303910563/;Красногорск;sale;flat;10;25;2;91.3;17790000;;бульвар Красногорский;9;Пенягино;
+EstateLiga;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303071864/;Красногорск;sale;flat;33;33;1;41.5;18000000;; Липовой Рощи;1к3;Липовая Роща;Sky Sputnik
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305017455/;Красногорск;sale;flat;4;17;2;78.2;17900000;;бульвар Красногорский;14;Пенягино;Павшинская пойма мкрн. 4
+Ольга Ханис;realtor;https://krasnogorsk.cian.ru/sale/flat/305467405/;Красногорск;sale;flat;12;19;2;68.0;18000000;; Спасская;1к3;Пенягино;Спасский Мост
+CENTURY 21 Milestone;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306603976/;Красногорск;sale;flat;2;23;2;59.0;18000000;;бульвар Красногорский;48;Волоколамская;Павшинская пойма мкрн. 4
+Триумфальная Арка;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303006839/;Красногорск;sale;flat;3;28;2;67.0;18000000;; Авангардная;5;Пенягино;ART
+ИНКОМ-Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308566273/;Красногорск;sale;flat;23;23;2;77.0;18200000;; Спасская;1к1;Липовая Роща;Спасский Мост
+Макромир;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306877501/;Красногорск;sale;flat;10;18;2;77.2;19450000;;бульвар Павшинский;15;Пенягино;
+Виктор Гриневский;realtor;https://krasnogorsk.cian.ru/sale/flat/307729153/;Красногорск;sale;flat;21;31;2;89.5;19749000;;бульвар Подмосковный;13;Мякинино;
+Альбина Чарухина;realtor;https://krasnogorsk.cian.ru/sale/flat/308125656/;Красногорск;sale;flat;18;30;2;63.0;19900000;;;23;Строгино;Спутник ЖК
+ИНКОМ-Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/292247403/;Красногорск;sale;flat;7;17;2;71.4;20000000;;Парковая ;8;Павшино;Парковые Аллеи
+Илья Инюткин;realtor;https://krasnogorsk.cian.ru/sale/flat/308487576/;Красногорск;sale;flat;43;44;2;62.5;20000000;; Авангардная;8;Пенягино;ART
+Анна Антоненко;realtor;https://krasnogorsk.cian.ru/sale/flat/307783610/;Красногорск;sale;flat;8;25;2;90.7;21500000;;бульвар Красногорский;36;Мякинино;Павшинская пойма мкрн. 4
+ИНКОМ-Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306183799/;Красногорск;sale;flat;18;18;2;66.5;22000000;; Видная;3;Митино;Митино парк
+Самолет Плюс;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308696884/;Красногорск;sale;flat;16;25;2;83.8;22000000;; Молодежная;2;Пенягино;Молодежный (Красногорск)
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308311513/;Красногорск;sale;flat;20;21;2;101.2;22000000;;бульвар Павшинский;26;Пенягино;
+OXE CAPITAL - Элитная Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/291631648/;Красногорск;sale;flat;20;21;2;101.2;22300000;;бульвар Павшинский;26;Пенягино;
+Владимир Кожухарь;realtor;https://krasnogorsk.cian.ru/sale/flat/308759875/;Красногорск;sale;flat;9;28;2;74.0;23000000;;бульвар Красногорский;25;Волоколамская;Спасский Мост
+ИНКОМ-Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306884017/;Красногорск;sale;flat;14;25;2;117.2;23000000;;Ильинское шоссе;18;Павшино;Ильинский парк
+Любовь Шабанова;realtor;https://krasnogorsk.cian.ru/sale/flat/308757107/;Красногорск;sale;flat;23;24;2;90.7;25000000;;бульвар Красногорский;36;Мякинино;Павшинская пойма мкрн. 4
+BRIGHT ESTATE - загородная недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307990039/;Красногорск;sale;flat;6;8;2;63.5;43000000;; Согласия;19;Строгино;Парк Рублево
+ID 105585703;homeowner;https://krasnogorsk.cian.ru/sale/flat/299179953/;Красногорск;sale;flat;7;8;1;42.9;6000000;; Алексеевская;3;Аникеевка;Опалиха Парк
+ID 116172905;homeowner;https://krasnogorsk.cian.ru/sale/flat/303807503/;Красногорск;sale;flat;21;25;1;33.3;6000000;;бульвар Космонавтов;12к1;Опалиха;Изумрудные холмы
+ДОММОЙ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303928163/;Красногорск;sale;flat;5;5;1;30.3;6050000;; Георгия Димитрова;4;Красногорская;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306417666/;Красногорск;sale;flat;1;4;1;32.7;6100000;; Чайковского;10;Павшино;
+ID 67806941;homeowner;https://krasnogorsk.cian.ru/sale/flat/308897269/;Красногорск;sale;flat;9;9;1;250.0;6100000;; Школьная;2;Павшино;
+ID 98952818;homeowner;https://krasnogorsk.cian.ru/sale/flat/299730532/;Красногорск;sale;flat;1;4;1;32.7;6100000;; Чайковского;10;Павшино;
+Елена Борисовна;realtor;https://krasnogorsk.cian.ru/sale/flat/303417618/;Красногорск;sale;flat;3;4;2;44.3;6100000;;Железнодорожная ;4;Павшино;
+ID 85571903;homeowner;https://krasnogorsk.cian.ru/sale/flat/293722222/;Красногорск;sale;flat;1;5;1;29.3;6100000;; Карбышева;3;Пенягино;
+ID 28716320;homeowner;https://krasnogorsk.cian.ru/sale/flat/306068932/;Красногорск;sale;flat;2;12;1;26.5;6180000;;бульвар Серебряный;1;Опалиха;Серебрица
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306450421/;Красногорск;sale;flat;1;3;1;34.0;6200000;;Осенняя ;16;Опалиха;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308418110/;Красногорск;sale;flat;1;4;1;32.7;6200000;; Чайковского;10;Павшино;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307005672/;Красногорск;sale;flat;1;4;1;32.7;6200000;; Чайковского;10;Павшино;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308710612/;Красногорск;sale;flat;12;27;1;34.8;6200000;;бульвар Космонавтов;12к1;Опалиха;Изумрудные холмы
+ID 24152;realtor;https://krasnogorsk.cian.ru/sale/flat/307148920/;Красногорск;sale;flat;1;5;1;30.0;6250000;;Вокзальная ;9;Павшино;
+Мост Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307396531/;Красногорск;sale;flat;6;9;1;32.8;6200000;; Карбышева;13;Опалиха;
+ID 122568;unknown;https://krasnogorsk.cian.ru/sale/flat/304449264/;Красногорск;sale;flat;1;2;1;32.0;6290000;;Центральная ;63Б;Павшино;
+ID 83175317;homeowner;https://krasnogorsk.cian.ru/sale/flat/307320140/;Красногорск;sale;flat;4;5;1;30.7;6200000;; Комсомольская;5;Красногорская;
+ID 47459212;homeowner;https://krasnogorsk.cian.ru/sale/flat/291680262/;Красногорск;sale;flat;12;25;1;34.8;6200000;;;к20;Опалиха;Изумрудные Холмы ЖК
+ID 119186576;homeowner;https://krasnogorsk.cian.ru/sale/flat/304759710/;Красногорск;sale;flat;9;9;1;30.8;6200000;;Железнодорожная ;7;Павшино;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306786455/;Красногорск;sale;flat;1;5;2;44.0;6300000;;Железнодорожный проезд;7;Павшино;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308561132/;Красногорск;sale;flat;1;5;1;31.0;6300000;;переулок Оптический;6;Павшино;
+SV 1212;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/295123288/;Красногорск;sale;flat;21;26;1;30.0;6300000;;бульвар Космонавтов;11;Опалиха;Изумрудные холмы
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308710308/;Красногорск;sale;flat;2;9;1;34.0;6300000;;Лесная ;3;Павшино;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306672578/;Красногорск;sale;flat;1;5;2;44.0;6300000;;Железнодорожный проезд;7;Павшино;
+ID 29432;realtor;https://krasnogorsk.cian.ru/sale/flat/274926786/;Красногорск;sale;flat;4;5;2;42.0;6300000;;Светлая ;4;Опалиха;
+ID 45401328;homeowner;https://krasnogorsk.cian.ru/sale/flat/307840834/;Красногорск;sale;flat;3;5;1;29.9;6300000;;Железнодорожная ;23;Красногорская;
+ID 100709501;homeowner;https://krasnogorsk.cian.ru/sale/flat/284686243/;Красногорск;sale;flat;1;10;1;32.8;6300000;; Братьев Горожанкиных;4;Красногорская;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305598508/;Красногорск;sale;flat;7;25;1;34.0;6350000;; Игоря Мерлушкина;2;Опалиха;Изумрудные холмы
+Анна Крапоткина;realtor;https://krasnogorsk.cian.ru/sale/flat/307943430/;Красногорск;sale;flat;2;9;1;36.4;6350000;; Ленина;47к2;Опалиха;
+ID 45619602;unknown;https://krasnogorsk.cian.ru/sale/flat/308461506/;Красногорск;sale;flat;11;27;1;28.2;6399999;;бульвар Космонавтов;12;Опалиха;Изумрудные холмы
+Александр  Дмитриев;realtor;https://krasnogorsk.cian.ru/sale/flat/299025078/;Красногорск;sale;flat;15;25;1;32.3;6350000;;бульвар Космонавтов;12;Опалиха;Изумрудные холмы
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308018115/;Красногорск;sale;flat;6;27;1;37.3;6400000;;бульвар Космонавтов;12к1;Опалиха;Изумрудные холмы
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307314871/;Красногорск;sale;flat;5;5;2;43.5;6400000;;Железнодорожный проезд;13;Павшино;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308832117/;Красногорск;sale;flat;2;15;1;33.0;6400000;;Лесная ;3;Павшино;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308573109/;Красногорск;sale;flat;5;5;2;43.5;6400000;;Железнодорожный проезд;13;Павшино;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308366787/;Красногорск;sale;flat;7;8;1;49.5;6400000;; Алексеевская;3;Аникеевка;Опалиха Парк
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308366786/;Красногорск;sale;flat;7;8;1;49.5;6400000;; Алексеевская;3;Аникеевка;Опалиха Парк
+A2 REALTY;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307399331/;Красногорск;sale;flat;10;25;2;34.49;6400000;;;к1;Павшино;Ильинойс ЖК
+Самолет Плюс Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307086406/;Красногорск;sale;flat;15;25;1;30.0;6400000;;бульвар Космонавтов;12к1;Опалиха;Изумрудные холмы
+ID 118807302;homeowner;https://krasnogorsk.cian.ru/sale/flat/304376778/;Красногорск;sale;flat;5;5;2;43.5;6400000;;Железнодорожный проезд;13;Павшино;
+ID 96039208;homeowner;https://krasnogorsk.cian.ru/sale/flat/299642693/;Красногорск;sale;flat;2;14;1;34.9;6400000;; Карбышева;17к2;Опалиха;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308157358/;Красногорск;sale;flat;17;25;2;35.48;6500000;;;к1;Павшино;Ильинойс ЖК
+ID 298142;realtor;https://krasnogorsk.cian.ru/sale/flat/308813048/;Красногорск;sale;flat;12;17;1;38.0;6500000;; Вилора Трифонова;7;Опалиха;
+Альтернатива;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303416454/;Красногорск;sale;flat;1;10;1;34.0;6500000;; Братьев Горожанкиных;2;Красногорская;
+ID 7331159;realtor;https://krasnogorsk.cian.ru/sale/flat/302550004/;Красногорск;sale;flat;1;4;1;34.5;6500000;;Вокзальная ;4;Павшино;
+Любовь Красникова;realtor;https://krasnogorsk.cian.ru/sale/flat/305982723/;Красногорск;sale;flat;7;9;1;37.0;6500000;; Ленина;27;Павшино;
+ID 17340485;unknown;https://krasnogorsk.cian.ru/sale/flat/307087992/;Красногорск;sale;flat;3;8;1;35.6;6500000;; Алексеевская;3;Аникеевка;Опалиха Парк
+ID 15385501;realtor;https://krasnogorsk.cian.ru/sale/flat/307662692/;Красногорск;sale;flat;3;3;1;37.8;6500000;; Народного Ополчения;34;Павшино;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303026617/;Красногорск;sale;flat;9;10;1;32.9;6600000;; Ленина;30;Красногорская;
+ID 118573277;homeowner;https://krasnogorsk.cian.ru/sale/flat/304140198/;Красногорск;sale;flat;7;9;1;32.8;6640000;; Кирова;30;Пенягино;
+Елена Чучмаева;realtor;https://krasnogorsk.cian.ru/sale/flat/308494170/;Красногорск;sale;flat;2;3;1;37.5;6600000;; Ново-Никольская;90;Аникеевка;
+ID 45801917;unknown;https://krasnogorsk.cian.ru/sale/flat/307192776/;Красногорск;sale;flat;5;5;1;31.3;6600000;;Пионерская ;9;Павшино;
+ID 72410000;unknown;https://krasnogorsk.cian.ru/sale/flat/267056676/;Красногорск;sale;flat;5;12;1;33.6;6600000;;бульвар Серебряный;1;Опалиха;Серебрица
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308899737/;Красногорск;sale;flat;1;4;1;31.6;6690000;; Кирова;5;Павшино;
+Ольга Беляева;realtor;https://krasnogorsk.cian.ru/sale/flat/306610070/;Красногорск;sale;flat;8;9;1;32.2;6700000;; Ленина;15;Красногорская;
+ID 172570;realtor;https://krasnogorsk.cian.ru/sale/flat/307831411/;Красногорск;sale;flat;16;16;1;38.1;6700000;; Вилора Трифонова;6;Опалиха;
+ID 120802709;homeowner;https://krasnogorsk.cian.ru/sale/flat/306313472/;Красногорск;sale;flat;1;5;2;44.0;6700000;;Железнодорожный проезд;7;Павшино;
+ID 114306105;homeowner;https://krasnogorsk.cian.ru/sale/flat/301945777/;Красногорск;sale;flat;1;5;2;41.3;6700000;;Железнодорожный проезд;7;Павшино;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/300982016/;Красногорск;sale;flat;17;26;1;39.0;6800000;; Игоря Мерлушкина;10;Аникеевка;Изумрудные холмы
+Анна Кулакова;realtor;https://krasnogorsk.cian.ru/sale/flat/308472855/;Красногорск;sale;flat;2;5;2;41.5;6800000;;переулок Оптический;5;Павшино;
+ID 88555040;unknown;https://krasnogorsk.cian.ru/sale/flat/307658166/;Красногорск;sale;flat;22;26;1;36.0;6800000;;бульвар Космонавтов;5;Опалиха;Изумрудные холмы
+ID 12981262;homeowner;https://krasnogorsk.cian.ru/sale/flat/308537921/;Красногорск;sale;flat;17;25;1;36.3;6800000;;бульвар Космонавтов;11;Опалиха;Изумрудные холмы
+ID 13684422;realtor;https://krasnogorsk.cian.ru/sale/flat/292613662/;Красногорск;sale;flat;16;25;1;41.6;6800000;;Заводская ;18к3;Павшино;мкрн. Южный (Ул. Заводская корп. 31)
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308468058/;Красногорск;sale;flat;1;12;1;37.8;6900000;;бульвар Серебряный;2;Опалиха;Серебрица
+ВЫКУП И ТОЧКА;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304870652/;Красногорск;sale;flat;5;5;2;42.8;6900000;;Вокзальная ;19Б;Павшино;
+ID 115604584;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306705652/;Красногорск;sale;flat;3;18;1;38.2;6900000;; Вилора Трифонова;3;Опалиха;
+Игорь Иванов;realtor;https://krasnogorsk.cian.ru/sale/flat/308832061/;Красногорск;sale;flat;3;5;2;45.2;6950000;;Железнодорожная ;29;Красногорская;
+ID 82477;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304198913/;Красногорск;sale;flat;19;25;1;35.0;6990000;;бульвар Космонавтов;6;Опалиха;Изумрудные холмы
+Мария Ширяева;realtor;https://krasnogorsk.cian.ru/sale/flat/294626183/;Красногорск;sale;flat;1;5;2;43.4;6990000;;Железнодорожная ;29а;Красногорская;
+ID 62335241;realtor;https://krasnogorsk.cian.ru/sale/flat/303085161/;Красногорск;sale;flat;2;7;1;35.0;6980000;; Дежнева;8;Опалиха;
+ID 128072;realtor;https://krasnogorsk.cian.ru/sale/flat/308806285/;Красногорск;sale;flat;23;25;2;35.48;7000000;;;к1;Павшино;Ильинойс ЖК
+ID 17340485;unknown;https://krasnogorsk.cian.ru/sale/flat/308887232/;Красногорск;sale;flat;5;8;1;38.5;7000000;; Алексеевская;3;Аникеевка;Опалиха Парк
+Лада Глушко;realtor;https://krasnogorsk.cian.ru/sale/flat/307215145/;Красногорск;sale;flat;3;9;1;36.0;7000000;; Ленина;47к3;Опалиха;
+Олег Гапонов;realtor;https://krasnogorsk.cian.ru/sale/flat/306266331/;Красногорск;sale;flat;11;16;1;38.0;7000000;мкр. Чернево-2; Вилора Трифонова;4;;
+ID 111380320;homeowner;https://krasnogorsk.cian.ru/sale/flat/296455166/;Красногорск;sale;flat;4;16;1;39.7;7000000;; Вилора Трифонова;6;Опалиха;
+ID 111621473;homeowner;https://krasnogorsk.cian.ru/sale/flat/304704884/;Красногорск;sale;flat;6;8;1;44.0;7000000;; Алексеевская;3;Аникеевка;Опалиха Парк
+ID 45807534;homeowner;https://krasnogorsk.cian.ru/sale/flat/303643416/;Красногорск;sale;flat;3;5;1;40.0;7100000;; Мира;5к1;Опалиха;
+ID 673074;homeowner;https://krasnogorsk.cian.ru/sale/flat/305251908/;Красногорск;sale;flat;11;26;1;37.9;7100000;;бульвар Космонавтов;11;Опалиха;Изумрудные холмы
+ID 18705620;realtor;https://krasnogorsk.cian.ru/sale/flat/290132996/;Красногорск;sale;flat;6;14;1;38.0;7100000;мкр. Чернево; Карбышева;33к1;;
+ID 6880684;homeowner;https://krasnogorsk.cian.ru/sale/flat/302505528/;Красногорск;sale;flat;2;3;1;30.5;7100000;;Заводская ;23;Павшино;
+ID 72815114;homeowner;https://krasnogorsk.cian.ru/sale/flat/293850081/;Красногорск;sale;flat;7;9;1;32.0;7100000;; Ленина;5б;Павшино;
+ID 106976029;homeowner;https://krasnogorsk.cian.ru/sale/flat/300614135/;Красногорск;sale;flat;8;9;1;31.5;7100000;; Ленина;5б;Павшино;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306570759/;Красногорск;sale;flat;23;24;1;40.1;7200000;; Игоря Мерлушкина;12;Аникеевка;Изумрудные холмы
+ИНКОМ-Недвижимость. Аренда;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/301124080/;Красногорск;sale;flat;11;25;1;39.0;7200000;;бульвар Космонавтов;1;Опалиха;Изумрудные холмы
+ID 14823;realtor;https://krasnogorsk.cian.ru/sale/flat/307493005/;Красногорск;sale;flat;9;9;1;40.0;7500000;;Ильинское шоссе;2;Павшино;
+ID 18408685;unknown;https://krasnogorsk.cian.ru/sale/flat/308411619/;Красногорск;sale;flat;9;28;1;23.0;7500000;; Большая Воскресенская;1;Павшино;Тетрис
+ID 101235812;homeowner;https://krasnogorsk.cian.ru/sale/flat/301224394/;Красногорск;sale;flat;24;24;1;41.0;7500000;; Игоря Мерлушкина;10;Опалиха;Изумрудные холмы
+ID 75945041;homeowner;https://krasnogorsk.cian.ru/sale/flat/295613346/;Красногорск;sale;flat;8;26;1;36.9;7500000;; Игоря Мерлушкина;2;Опалиха;Изумрудные холмы
+ID 87500372;homeowner;https://krasnogorsk.cian.ru/sale/flat/308579688/;Красногорск;sale;flat;3;5;2;43.0;7500000;; Военный Городок Павшино;2;Павшино;
+ID 12834756;realtor;https://krasnogorsk.cian.ru/sale/flat/307309655/;Красногорск;sale;flat;9;16;1;38.0;7500000;; Королева;2;Красногорская;
+ID 114601352;homeowner;https://krasnogorsk.cian.ru/sale/flat/299975633/;Красногорск;sale;flat;4;24;2;32.5;7500000;;;к1;Павшино;Ильинойс ЖК
+ID 64003529;homeowner;https://krasnogorsk.cian.ru/sale/flat/306911269/;Красногорск;sale;flat;12;24;1;34.5;7500000;;Ильинский тупик;1;Красногорская;
+ID 35658850;homeowner;https://krasnogorsk.cian.ru/sale/flat/297039691/;Красногорск;sale;flat;11;25;1;37.0;7550000;;бульвар Космонавтов;11;Опалиха;Изумрудные холмы
+ID 176795;realtor;https://krasnogorsk.cian.ru/sale/flat/308455888/;Красногорск;sale;flat;4;14;1;43.7;7600000;;Успенская ;6;Красногорская;
+ID 13045501;homeowner;https://krasnogorsk.cian.ru/sale/flat/306280744/;Красногорск;sale;flat;14;17;1;36.9;7600000;; Народного Ополчения;2Бк1;Митино;Брусчатый поселок
+ID 47225386;realtor;https://krasnogorsk.cian.ru/sale/flat/308859281/;Красногорск;sale;flat;4;4;2;41.4;7600000;; Кирова;11;Павшино;
+ID 91897476;homeowner;https://krasnogorsk.cian.ru/sale/flat/305269959/;Красногорск;sale;flat;4;4;1;30.5;7600000;; Пришвина;9;Опалиха;Опалиха О3
+ID 52270447;homeowner;https://krasnogorsk.cian.ru/sale/flat/273966544/;Красногорск;sale;flat;4;5;2;40.0;7600000;;Речная ;19;Павшино;
+ID 12924032;realtor;https://krasnogorsk.cian.ru/sale/flat/307090725/;Красногорск;sale;flat;3;25;1;41.9;7600000;;бульвар Космонавтов;4;Опалиха;Изумрудные холмы
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308346738/;Красногорск;sale;flat;10;14;1;36.4;7700000;; Братьев Горожанкиных;23;Опалиха;
+Сергей Сергеевич Арзамасцев;realtor;https://krasnogorsk.cian.ru/sale/flat/298310673/;Красногорск;sale;flat;5;5;2;43.7;7700000;;Железнодорожный проезд;9;Павшино;
+ID 102299740;realtor;https://krasnogorsk.cian.ru/sale/flat/308618889/;Красногорск;sale;flat;12;23;2;36.94;7659177;;Ильинский тупик;1с12;Красногорская;
+ID 120033975;homeowner;https://krasnogorsk.cian.ru/sale/flat/305864856/;Красногорск;sale;flat;2;5;2;40.6;7700000;; Чайковского;8а;Павшино;
+ID 483109;realtor;https://krasnogorsk.cian.ru/sale/flat/299026609/;Красногорск;sale;flat;2;8;1;39.3;7700000;; Геологов;4к2;Опалиха;
+ID 16623359;unknown;https://krasnogorsk.cian.ru/sale/flat/308789142/;Красногорск;sale;flat;16;17;1;48.0;7700000;;Успенская ;24;Опалиха;
+ID 48642381;homeowner;https://krasnogorsk.cian.ru/sale/flat/299887626/;Красногорск;sale;flat;2;8;1;32.3;7700000;; Пришвина;19;Опалиха;Опалиха О3
+СТОЛИЦА Департамент недвижимости;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307539837/;Красногорск;sale;flat;2;4;2;40.1;7750000;;Вокзальная ;5;Павшино;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305276954/;Красногорск;sale;flat;6;9;2;50.1;7750000;; Ленина;45;Красногорская;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306101666/;Красногорск;sale;flat;2;5;2;44.7;7800000;; Георгия Димитрова;1;Красногорская;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308468111/;Красногорск;sale;flat;6;9;2;50.1;7750000;; Ленина;45;Красногорская;
+Homeapp;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308708712/;Красногорск;sale;flat;9;17;1;47.9;7790000;;Успенская ;32;Опалиха;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306949696/;Красногорск;sale;flat;2;5;2;40.6;7800000;; Чайковского;8а;Павшино;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305617212/;Красногорск;sale;flat;15;25;1;43.0;7750000;; Игоря Мерлушкина;4;Аникеевка;Изумрудные холмы
+Алексей Есин;realtor;https://krasnogorsk.cian.ru/sale/flat/302942750/;Красногорск;sale;flat;1;3;2;49.0;7800000;;Волоколамское шоссе;10;Павшино;
+ID 450716;unknown;https://krasnogorsk.cian.ru/sale/flat/308261027/;Красногорск;sale;flat;5;9;2;50.4;7800000;; Карбышева;27;Опалиха;
+ID 49745598;unknown;https://krasnogorsk.cian.ru/sale/flat/307761231/;Красногорск;sale;flat;4;5;2;43.1;7800000;; Кирова;4;Павшино;
+ID 47920073;homeowner;https://krasnogorsk.cian.ru/sale/flat/299317661/;Красногорск;sale;flat;24;25;1;39.0;7800000;;бульвар Космонавтов;13;Опалиха;Изумрудные холмы
+ID 17817225;unknown;https://krasnogorsk.cian.ru/sale/flat/308351552/;Красногорск;sale;flat;3;9;2;64.9;7788000;; Алексеевская;3;Аникеевка;Опалиха Парк
+ID 47110037;homeowner;https://krasnogorsk.cian.ru/sale/flat/306811015/;Красногорск;sale;flat;15;24;2;35.5;7800000;;;к1;Павшино;Ильинойс ЖК
+ID 15499905;homeowner;https://krasnogorsk.cian.ru/sale/flat/301278376/;Красногорск;sale;flat;1;8;1;35.5;7800000;; Пришвина;5;Опалиха;Опалиха О3
+ID 61968052;homeowner;https://krasnogorsk.cian.ru/sale/flat/268693689/;Красногорск;sale;flat;1;10;1;33.4;7750000;; Ленина;34;Красногорская;
+ID 512496;homeowner;https://krasnogorsk.cian.ru/sale/flat/305458841/;Красногорск;sale;flat;3;9;1;33.0;7850000;; Комсомольская;33/13;Красногорская;
+ID 17817225;unknown;https://krasnogorsk.cian.ru/sale/flat/308354418/;Красногорск;sale;flat;5;9;2;65.7;7884000;; Алексеевская;3;Аникеевка;Опалиха Парк
+ID 91190461;homeowner;https://krasnogorsk.cian.ru/sale/flat/306348028/;Красногорск;sale;flat;24;25;1;39.0;7850000;; Игоря Мерлушкина;3;Опалиха;Изумрудные холмы
+ИНКОМ-Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308963925/;Красногорск;sale;flat;3;14;1;42.0;7950000;;Успенская ;6;Красногорская;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306830975/;Красногорск;sale;flat;11;25;1;43.0;7900000;; Игоря Мерлушкина;4;Аникеевка;Изумрудные холмы
+ID 268705;realtor;https://krasnogorsk.cian.ru/sale/flat/303449686/;Красногорск;sale;flat;3;21;1;33.0;7950000;;Почтовая ;16;Павшино;Молодежный (Красногорск)
+ID 12562634;unknown;https://krasnogorsk.cian.ru/sale/flat/304741366/;Красногорск;sale;flat;7;17;1;46.3;7950000;;Успенская ;28;Опалиха;
+ID 44194977;homeowner;https://krasnogorsk.cian.ru/sale/flat/305933717/;Красногорск;sale;flat;3;5;2;41.0;7999000;;Заводская ;2;Павшино;
+ID 117910124;homeowner;https://krasnogorsk.cian.ru/sale/flat/303494788/;Красногорск;sale;flat;3;8;1;33.0;7900000;; Пришвина;7;Опалиха;Опалиха О3
+ID 7188040;homeowner;https://krasnogorsk.cian.ru/sale/flat/305217993/;Красногорск;sale;flat;16;34;1;33.3;7900000;;;к14;Строгино;Спутник ЖК
+ID 154089;unknown;https://krasnogorsk.cian.ru/sale/flat/306574189/;Красногорск;sale;flat;3;17;1;35.5;7900000;; Народного Ополчения;2Бк1;Митино;Брусчатый поселок
+Валерий  Никишкин;realtor;https://krasnogorsk.cian.ru/sale/flat/308313116/;Красногорск;sale;flat;16;18;2;54.0;7990000;; Вилора Трифонова;3;Опалиха;
+ID 15591585;homeowner;https://krasnogorsk.cian.ru/sale/flat/303885183/;Красногорск;sale;flat;11;26;1;41.0;7900000;; Игоря Мерлушкина;4;Аникеевка;Изумрудные холмы
+ID 16326142;unknown;https://krasnogorsk.cian.ru/sale/flat/307915260/;Красногорск;sale;flat;5;25;1;36.0;7999000;;бульвар Космонавтов;5;Опалиха;Изумрудные холмы
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306676655/;Красногорск;sale;flat;4;9;2;60.9;8000000;; Алексеевская;3;Аникеевка;Опалиха Парк
+Анна Кулакова;realtor;https://krasnogorsk.cian.ru/sale/flat/308007378/;Красногорск;sale;flat;12;26;1;49.0;8000000;; Игоря Мерлушкина;3;Аникеевка;Изумрудные холмы
+Елена Каширина;realtor;https://krasnogorsk.cian.ru/sale/flat/306570265/;Красногорск;sale;flat;2;2;2;48.7;8000000;;проезд Чехова;3;Павшино;
+ID 17340485;unknown;https://krasnogorsk.cian.ru/sale/flat/308886227/;Красногорск;sale;flat;7;8;1;44.1;8000000;; Алексеевская;3;Аникеевка;Опалиха Парк
+ID 17340485;unknown;https://krasnogorsk.cian.ru/sale/flat/305583100/;Красногорск;sale;flat;2;8;1;44.9;8000000;; Алексеевская;3;Аникеевка;Опалиха Парк
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308418755/;Красногорск;sale;flat;8;9;2;45.0;8390000;; 50 лет Октября;3А;Красногорская;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308567889/;Красногорск;sale;flat;18;22;1;39.5;8350000;;бульвар Космонавтов;1;Опалиха;Изумрудные холмы
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306679915/;Красногорск;sale;flat;5;17;1;45.6;8300000;;Успенская ;24;Опалиха;
+ID 61050539;unknown;https://krasnogorsk.cian.ru/sale/flat/301869532/;Красногорск;sale;flat;6;8;1;38.3;8300000;; Пришвина;15;Опалиха;Опалиха О3
+ID 78668458;unknown;https://krasnogorsk.cian.ru/sale/flat/307130093/;Красногорск;sale;flat;3;9;2;58.3;8350000;; Ткацкой фабрики;18;Аникеевка;
+ID 118729216;homeowner;https://krasnogorsk.cian.ru/sale/flat/307847635/;Красногорск;sale;flat;21;24;1;35.5;8300000;;;к1;Павшино;Ильинойс ЖК
+ID 112635755;homeowner;https://krasnogorsk.cian.ru/sale/flat/297789214/;Красногорск;sale;flat;15;17;1;38.2;8300000;;бульвар Южный;4;Павшино;
+ID 67658042;homeowner;https://krasnogorsk.cian.ru/sale/flat/292452453/;Красногорск;sale;flat;18;24;1;43.5;8399999;;бульвар Космонавтов;1;Опалиха;Изумрудные холмы
+Мечты в квадрате;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/301491343/;Красногорск;sale;flat;7;31;1;34.95;8400000;;;к13;Липовая Роща;Спутник ЖК
+Мост Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307396526/;Красногорск;sale;flat;12;24;1;42.3;8400000;; Игоря Мерлушкина;3;Опалиха;Изумрудные холмы
+ID 378578;realtor;https://krasnogorsk.cian.ru/sale/flat/306474367/;Красногорск;sale;flat;1;44;1;33.0;8400000;; Авангардная;2;Пенягино;ART
+ID 112717092;homeowner;https://krasnogorsk.cian.ru/sale/flat/297869961/;Красногорск;sale;flat;7;25;1;31.9;8480000;; Молодежная;4;Пенягино;Молодежный (Красногорск)
+ID 67051069;unknown;https://krasnogorsk.cian.ru/sale/flat/308570842/;Красногорск;sale;flat;15;25;2;41.88;8499999;;;к1;Павшино;Ильинойс ЖК
+ID 47197612;realtor;https://krasnogorsk.cian.ru/sale/flat/303216816/;Красногорск;sale;flat;2;9;1;40.0;8400000;; Дежнева;9;Опалиха;
+ID 48138766;realtor;https://krasnogorsk.cian.ru/sale/flat/306818487/;Красногорск;sale;flat;2;6;1;32.4;8499999;; Пришвина;4;Опалиха;Опалиха О3
+ID 658242;homeowner;https://krasnogorsk.cian.ru/sale/flat/302801322/;Красногорск;sale;flat;8;9;2;45.0;8400000;; 50 лет Октября;3А;Красногорская;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307201255/;Красногорск;sale;flat;24;25;1;29.4;8500000;;бульвар Космонавтов;12;Опалиха;Изумрудные холмы
+Мост Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307848940/;Красногорск;sale;flat;4;9;1;46.7;8500000;;проезд Островского;19;Опалиха;
+ID 482931;realtor;https://krasnogorsk.cian.ru/sale/flat/305698820/;Красногорск;sale;flat;16;17;1;43.9;8500000;;Центральный проезд;2;Митино;Реал Парк
+ID 308359;unknown;https://krasnogorsk.cian.ru/sale/flat/297808704/;Красногорск;sale;flat;8;9;1;42.0;8500000;; Ткацкой фабрики;18;Аникеевка;
+ID 106760445;homeowner;https://krasnogorsk.cian.ru/sale/flat/308861917/;Красногорск;sale;flat;9;9;2;52.8;8500000;; Ленина;47к1;Пенягино;
+ID 85040811;realtor;https://krasnogorsk.cian.ru/sale/flat/280342274/;Красногорск;sale;flat;1;17;1;37.0;8500000;;бульвар Павшинский;12;Пенягино;
+ID 102293066;homeowner;https://krasnogorsk.cian.ru/sale/flat/305494882/;Красногорск;sale;flat;12;31;1;37.9;8500000;;;к13;Строгино;Спутник ЖК
+ID 74838525;unknown;https://krasnogorsk.cian.ru/sale/flat/308623773/;Красногорск;sale;flat;4;26;1;40.2;8500000;;бульвар Космонавтов;11;Опалиха;Изумрудные холмы
+ID 306411;realtor;https://krasnogorsk.cian.ru/sale/flat/306476275/;Красногорск;sale;flat;4;5;2;46.0;8500000;; Георгия Димитрова;3;Красногорская;
+ID 87018113;homeowner;https://krasnogorsk.cian.ru/sale/flat/306730496/;Красногорск;sale;flat;23;24;1;44.8;8500000;; Игоря Мерлушкина;8;Аникеевка;Изумрудные холмы
+ID 18873929;unknown;https://krasnogorsk.cian.ru/sale/flat/305248050/;Красногорск;sale;flat;15;26;1;43.1;8500000;; Игоря Мерлушкина;10;Аникеевка;Изумрудные холмы
+ID 90677290;homeowner;https://krasnogorsk.cian.ru/sale/flat/298132219/;Красногорск;sale;flat;5;8;1;31.2;8500000;; Пришвина;7;Опалиха;Опалиха О3
+Татьяна Демич;realtor;https://krasnogorsk.cian.ru/sale/flat/305870520/;Красногорск;sale;flat;1;44;2;36.0;8800000;; Авангардная;4;Пенягино;ART
+ID 120578718;homeowner;https://krasnogorsk.cian.ru/sale/flat/306102213/;Красногорск;sale;flat;5;5;2;44.0;8800000;;переулок Оптический;1;Павшино;
+ID 75994633;homeowner;https://krasnogorsk.cian.ru/sale/flat/303222418/;Красногорск;sale;flat;4;8;1;35.6;8850000;; Алексеевская;3;Аникеевка;Опалиха Парк
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303018671/;Красногорск;sale;flat;9;25;1;39.7;8990000;; Молодежная;4;Пенягино;Молодежный (Красногорск)
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306234915/;Красногорск;sale;flat;3;31;1;33.0;8999999;; Липовой Рощи;1к3;Липовая Роща;Sky Sputnik
+БЕСТ недвижимость на Тверской;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307398575/;Красногорск;sale;flat;3;17;1;38.5;8990000;; Имени Зверева;2;Пенягино;
+ID 61050539;unknown;https://krasnogorsk.cian.ru/sale/flat/303949966/;Красногорск;sale;flat;4;5;2;64.2;8990000;; Алексеевская;3;Аникеевка;Опалиха Парк
+ID 110970367;homeowner;https://krasnogorsk.cian.ru/sale/flat/295897218/;Красногорск;sale;flat;9;34;1;36.0;8900000;; Липовой Рощи;1к3;Строгино;Sky Sputnik
+ID 120311415;homeowner;https://krasnogorsk.cian.ru/sale/flat/305839644/;Красногорск;sale;flat;14;14;1;43.6;8900000;;Лесная ;3А;Павшино;Бенуа
+ID 114904350;homeowner;https://krasnogorsk.cian.ru/sale/flat/307416309/;Красногорск;sale;flat;7;18;1;41.0;8980000;;бульвар Южный;4;Павшино;
+Ольга Пчельникова;realtor;https://krasnogorsk.cian.ru/sale/flat/308344924/;Красногорск;sale;flat;21;31;1;35.0;8900000;;;;;Sky Sputnik
+Лариса Филиповских;realtor;https://krasnogorsk.cian.ru/sale/flat/306571466/;Красногорск;sale;flat;3;8;2;45.7;8900000;; Пришвина;17;Опалиха;Опалиха О3
+ID 13049915;homeowner;https://krasnogorsk.cian.ru/sale/flat/307657779/;Красногорск;sale;flat;4;4;2;57.1;8900000;; Народного Ополчения;35;Павшино;
+ID 108834378;homeowner;https://krasnogorsk.cian.ru/sale/flat/294181729/;Красногорск;sale;flat;8;14;2;52.6;8900000;; Карбышева;33;Павшино;
+Спутник;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303201709/;Красногорск;sale;flat;5;22;1;43.0;9000000;;бульвар Южный;6;Павшино;
+ID 78739910;unknown;https://krasnogorsk.cian.ru/sale/flat/294728797/;Красногорск;sale;flat;2;19;1;41.3;9000000;;бульвар Павшинский;1;Пенягино;
+ID 17174;realtor;https://krasnogorsk.cian.ru/sale/flat/302784745/;Красногорск;sale;flat;16;17;1;39.0;9000000;; Народного Ополчения;2Бк2;Митино;Брусчатый поселок
+ID 6358;realtor;https://krasnogorsk.cian.ru/sale/flat/301858402/;Красногорск;sale;flat;16;23;1;42.3;9000000;; Имени Егорова;5;Пенягино;
+ID 6953398;unknown;https://krasnogorsk.cian.ru/sale/flat/308264155/;Красногорск;sale;flat;15;18;2;58.0;9000000;; Вилора Трифонова;3;Опалиха;
+ID 19208996;homeowner;https://krasnogorsk.cian.ru/sale/flat/308284969/;Красногорск;sale;flat;4;9;2;52.8;9000000;; Ленина;47к2;Опалиха;
+ID 53685066;realtor;https://krasnogorsk.cian.ru/sale/flat/307919666/;Красногорск;sale;flat;4;26;1;37.5;9000000;; Молодежная;3;Пенягино;Молодежный (Красногорск)
+Елена Филаткина;realtor;https://krasnogorsk.cian.ru/sale/flat/303808720/;Красногорск;sale;flat;22;25;1;40.7;9000000;;Заводская ;18к3;Павшино;мкрн. Южный (Ул. Заводская корп. 31)
+ID 95575893;homeowner;https://krasnogorsk.cian.ru/sale/flat/305220050/;Красногорск;sale;flat;3;5;2;55.0;9000000;; Жуковского;8;Павшино;
+ID 442198;homeowner;https://krasnogorsk.cian.ru/sale/flat/294389793/;Красногорск;sale;flat;12;22;1;40.0;9000000;;бульвар Южный;6;Павшино;
+ID 94027444;homeowner;https://krasnogorsk.cian.ru/sale/flat/299431806/;Красногорск;sale;flat;16;26;1;40.5;9000000;; Игоря Мерлушкина;12;Опалиха;Изумрудные холмы
+Gordi Home;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308764974/;Красногорск;sale;flat;10;18;1;44.5;9100000;;Заводская ;18к2;Павшино;мкрн. Южный (Ул. Заводская корп. 31)
+ID 136843;realtor;https://krasnogorsk.cian.ru/sale/flat/307713539/;Красногорск;sale;flat;2;17;1;39.0;9150000;;бульвар Ильинский;2А;Пенягино;Павшинская пойма мкрн. 4
+ID 106786731;homeowner;https://krasnogorsk.cian.ru/sale/flat/292013637/;Красногорск;sale;flat;12;25;1;36.0;9100000;; Молодежная;3;Пенягино;Молодежный (Красногорск)
+ID 1702198;realtor;https://krasnogorsk.cian.ru/sale/flat/303213805/;Красногорск;sale;flat;11;34;1;35.54;9100000;;;к15;Строгино;Спутник ЖК
+ID 239140;homeowner;https://krasnogorsk.cian.ru/sale/flat/307886846/;Красногорск;sale;flat;14;45;2;33.0;9100000;; Авангардная;6;Пенягино;ART
+ID 26296563;homeowner;https://krasnogorsk.cian.ru/sale/flat/303121733/;Красногорск;sale;flat;3;6;1;33.0;9100000;; Пришвина;9;Опалиха;Опалиха О3
+ID 13508024;homeowner;https://krasnogorsk.cian.ru/sale/flat/231747405/;Красногорск;sale;flat;5;25;1;43.9;9200000;;бульвар Космонавтов;4;Опалиха;Изумрудные холмы
+ID 21272819;realtor;https://krasnogorsk.cian.ru/sale/flat/307801687/;Красногорск;sale;flat;8;17;1;37.8;9200000;; Имени Зверева;4;Пенягино;
+Азбука Жилья;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305497614/;Красногорск;sale;flat;17;17;1;42.2;9300000;;бульвар Павшинский;1;Пенягино;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308561199/;Красногорск;sale;flat;6;17;1;36.4;9300000;; Имени Зверева;6;Пенягино;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308549289/;Красногорск;sale;flat;6;17;1;36.4;9300000;; Имени Зверева;6;Пенягино;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308020119/;Красногорск;sale;flat;6;8;2;67.9;9250000;; Алексеевская;3;Аникеевка;Опалиха Парк
+Максим Стригун;realtor;https://krasnogorsk.cian.ru/sale/flat/308744208/;Красногорск;sale;flat;16;17;1;37.7;9300000;; Имени Зверева;4;Пенягино;
+Альтернатива;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306414041/;Красногорск;sale;flat;3;17;1;44.6;9300000;; Школьная;7;Павшино;
+Альфалот;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307734446/;Красногорск;sale;flat;11;22;2;49.2;9267300;;бульвар Ильинский;7;Пенягино;
+Альфалот;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307734445/;Красногорск;sale;flat;12;22;2;49.2;9267300;;бульвар Ильинский;7;Пенягино;
+ID 419583;unknown;https://krasnogorsk.cian.ru/sale/flat/308295355/;Красногорск;sale;flat;11;14;2;52.8;9300000;; Карбышева;23к1;Опалиха;
+ID 347405;realtor;https://krasnogorsk.cian.ru/sale/flat/304688987/;Красногорск;sale;flat;1;14;1;41.1;9300000;;Первомайская ;9;Павшино;
+ID 847570;homeowner;https://krasnogorsk.cian.ru/sale/flat/307081438/;Красногорск;sale;flat;17;17;1;43.6;9300000;;бульвар Павшинский;1;Пенягино;
+ID 52185911;homeowner;https://krasnogorsk.cian.ru/sale/flat/304848019/;Красногорск;sale;flat;7;12;1;34.9;9300000;;бульвар Серебряный;2;Опалиха;Серебрица
+ID 47542773;homeowner;https://krasnogorsk.cian.ru/sale/flat/306438209/;Красногорск;sale;flat;26;28;1;35.6;9250000;; Авангардная;5;Пенягино;ART
+ID 89702308;homeowner;https://krasnogorsk.cian.ru/sale/flat/295475714/;Красногорск;sale;flat;5;31;1;26.47;9300000;;;к13;Строгино;Спутник ЖК
+ID 112068203;homeowner;https://krasnogorsk.cian.ru/sale/flat/297125951/;Красногорск;sale;flat;6;8;2;67.9;9250000;; Алексеевская;3;Аникеевка;Опалиха Парк
+Татьяна Чекмарева;realtor;https://krasnogorsk.cian.ru/sale/flat/296942705/;Красногорск;sale;flat;9;17;1;39.0;9250000;; Народного Ополчения;2Бк1;Митино;Брусчатый поселок
+Алексей Антонов;realtor;https://krasnogorsk.cian.ru/sale/flat/308833324/;Красногорск;sale;flat;13;17;1;40.5;9390000;;бульвар Южный;4;Павшино;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306797298/;Красногорск;sale;flat;15;19;1;33.4;9400000;;Парковая ;8;Красногорская;Парковые Аллеи
+Самолет Плюс Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308935437/;Красногорск;sale;flat;2;16;1;42.5;9350000;; Спасская;4;Пенягино;
+ID 105969708;homeowner;https://krasnogorsk.cian.ru/sale/flat/290817399/;Красногорск;sale;flat;4;5;2;44.1;9400000;; Циолковского;14;Павшино;
+ID 16085;realtor;https://krasnogorsk.cian.ru/sale/flat/304381921/;Красногорск;sale;flat;16;17;1;40.0;9500000;;бульвар Подмосковный;6;Пенягино;
+ID 271650;realtor;https://krasnogorsk.cian.ru/sale/flat/304856095/;Красногорск;sale;flat;1;8;2;40.2;9500000;;бульвар Серебряный;4;Опалиха;Серебрица
+ID 383562;realtor;https://krasnogorsk.cian.ru/sale/flat/306513868/;Красногорск;sale;flat;10;16;2;54.0;9499999;мкр. Чернево-2; Вилора Трифонова;4;;
+Александра  Демчук;realtor;https://krasnogorsk.cian.ru/sale/flat/304539793/;Красногорск;sale;flat;4;8;1;33.0;9900000;; Авангардная;3;Пенягино;ART
+Елена Карпеева;realtor;https://krasnogorsk.cian.ru/sale/flat/308274582/;Красногорск;sale;flat;23;24;2;48.6;9900000;;бульвар Космонавтов;1;Опалиха;Изумрудные холмы
+ID 50256154;homeowner;https://krasnogorsk.cian.ru/sale/flat/308513171/;Красногорск;sale;flat;31;45;1;31.7;9900000;; Авангардная;2;Пенягино;ART
+ID 526429;homeowner;https://krasnogorsk.cian.ru/sale/flat/258722319/;Красногорск;sale;flat;4;25;1;48.0;9900000;; Вилора Трифонова;1;Опалиха;
+ID 48448;realtor;https://krasnogorsk.cian.ru/sale/flat/307818196/;Красногорск;sale;flat;15;26;2;57.0;9900000;; Игоря Мерлушкина;6;Аникеевка;Изумрудные холмы
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308957609/;Красногорск;sale;flat;3;16;2;52.0;10000000;;Заводская ;29;Красногорская;
+ID 77605083;homeowner;https://krasnogorsk.cian.ru/sale/flat/307630771/;Красногорск;sale;flat;4;14;1;50.0;10000000;; Циолковского;17;Красногорская;
+ID 100908631;homeowner;https://krasnogorsk.cian.ru/sale/flat/301925377/;Красногорск;sale;flat;41;44;1;37.0;9999000;; Авангардная;2;Пенягино;ART
+Елена Лобанова;realtor;https://krasnogorsk.cian.ru/sale/flat/308189721/;Красногорск;sale;flat;15;46;2;43.0;10000000;; Авангардная;4;Пенягино;ART
+ID 290952;realtor;https://krasnogorsk.cian.ru/sale/flat/302280283/;Красногорск;sale;flat;8;14;1;49.0;10100000;; Ленина;35;Павшино;
+ENEstate;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304685927/;Красногорск;sale;flat;10;11;2;63.2;10100000;; Геологов;17;Опалиха;Дом на Геологов
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307584454/;Красногорск;sale;flat;10;25;1;33.1;10200000;;бульвар Красногорский;18;Пенягино;Павшинская пойма мкрн. 4
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/296782744/;Красногорск;sale;flat;4;8;1;41.0;10200000;;бульвар Серебряный;4;Опалиха;Серебрица
+ID 9530;realtor;https://krasnogorsk.cian.ru/sale/flat/307053000/;Красногорск;sale;flat;10;19;1;33.1;10200000;;бульвар Красногорский;18;Пенягино;Павшинская пойма мкрн. 4
+ID 10760280;unknown;https://krasnogorsk.cian.ru/sale/flat/307363139/;Красногорск;sale;flat;13;17;1;42.3;10240000;;бульвар Павшинский;4;Пенягино;
+ID 15450501;homeowner;https://krasnogorsk.cian.ru/sale/flat/299263925/;Красногорск;sale;flat;18;19;1;36.9;10200000;;бульвар Красногорский;23к3;Мякинино;Спасский Мост
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307803221/;Красногорск;sale;flat;2;23;1;42.6;10300000;;Павшинская ;2;Павшино;Павшинский
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305791457/;Красногорск;sale;flat;9;25;1;36.0;10250000;; Молодежная;4;Пенягино;Молодежный (Красногорск)
+ID 17340485;unknown;https://krasnogorsk.cian.ru/sale/flat/307086753/;Красногорск;sale;flat;2;8;2;61.3;10300000;; Алексеевская;3;Аникеевка;Опалиха Парк
+ID 77687497;homeowner;https://krasnogorsk.cian.ru/sale/flat/302168931/;Красногорск;sale;flat;5;18;2;53.2;10300000;; Вилора Трифонова;8;Опалиха;
+ID 101965614;homeowner;https://krasnogorsk.cian.ru/sale/flat/306233657/;Красногорск;sale;flat;11;14;1;43.7;10300000;;бульвар Ильинский;4;Пенягино;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307772674/;Красногорск;sale;flat;7;24;2;55.0;10390000;; Игоря Мерлушкина;10;Аникеевка;Изумрудные холмы
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304194909/;Красногорск;sale;flat;18;25;1;42.0;10400000;;бульвар Красногорский;8;Пенягино;
+ID 409079;realtor;https://krasnogorsk.cian.ru/sale/flat/289297432/;Красногорск;sale;flat;2;25;2;64.5;10400000;; Вилора Трифонова;1;Опалиха;
+ПРОСПЕКТ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/299882883/;Красногорск;sale;flat;11;24;2;55.0;10350000;;;к1;Павшино;Ильинойс ЖК
+ID 119416695;homeowner;https://krasnogorsk.cian.ru/sale/flat/304957253/;Красногорск;sale;flat;25;32;1;41.0;10400000;; Липовой Рощи;6к1;Мякинино;Sky Sputnik
+Татьяна Алексеевна;realtor;https://krasnogorsk.cian.ru/sale/flat/295696584/;Красногорск;sale;flat;7;15;1;45.0;10390000;;бульвар Павшинский;36;Пенягино;
+ID 342897;realtor;https://krasnogorsk.cian.ru/sale/flat/305272952/;Красногорск;sale;flat;7;9;2;54.7;10400000;; Геологов;4к3;Опалиха;
+ID 100235176;homeowner;https://krasnogorsk.cian.ru/sale/flat/306349702/;Красногорск;sale;flat;8;25;1;36.21;10400000;;;к6;Павшино;М 5 ЖК
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308704391/;Красногорск;sale;flat;36;44;2;37.1;10500000;; Авангардная;6;Пенягино;ART
+БЕСТ недвижимость на Тверской;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304687087/;Красногорск;sale;flat;7;12;2;51.7;10500000;; Комсомольская;37;Красногорская;
+ID 22086;realtor;https://krasnogorsk.cian.ru/sale/flat/306652537/;Красногорск;sale;flat;21;30;1;38.4;10500000;;бульвар Красногорский;23к1;Волоколамская;Спасский Мост
+ID 21387;realtor;https://krasnogorsk.cian.ru/sale/flat/307888880/;Красногорск;sale;flat;23;31;1;37.0;10500000;;бульвар Красногорский;23к2;Волоколамская;Спасский Мост
+ID 153209;realtor;https://krasnogorsk.cian.ru/sale/flat/297810990/;Красногорск;sale;flat;5;26;2;43.2;10500000;; Молодежная;3;Пенягино;Молодежный (Красногорск)
+Елена Карпеева;realtor;https://krasnogorsk.cian.ru/sale/flat/306435144/;Красногорск;sale;flat;18;24;2;55.6;10500000;;бульвар Космонавтов;17;Опалиха;Изумрудные холмы
+ID 19263276;unknown;https://krasnogorsk.cian.ru/sale/flat/308294756/;Красногорск;sale;flat;5;24;2;58.0;10500000;; Игоря Мерлушкина;8;Аникеевка;Изумрудные холмы
+ID 12457853;realtor;https://krasnogorsk.cian.ru/sale/flat/307484786/;Красногорск;sale;flat;5;10;2;68.7;10480000;;Светлая ;8;Опалиха;
+ID 96606266;unknown;https://krasnogorsk.cian.ru/sale/flat/279259095/;Красногорск;sale;flat;4;6;2;54.3;10500000;;аллея Золотая;4;Опалиха;8 кленов
+ID 77749987;homeowner;https://krasnogorsk.cian.ru/sale/flat/296359260/;Красногорск;sale;flat;29;32;1;34.1;10500000;; Липовой Рощи;2к1;Строгино;Sky Sputnik
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308936611/;Красногорск;sale;flat;6;10;1;42.0;10700000;; Школьная;1;Павшино;
+SUNRISE Estate;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308744856/;Красногорск;sale;flat;22;45;1;46.0;10700000;; Авангардная;10;Пенягино;ART
+Александра  Демчук;realtor;https://krasnogorsk.cian.ru/sale/flat/308823052/;Красногорск;sale;flat;18;43;1;40.5;10700000;; Авангардная;2;Пенягино;ART
+На Петровке;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308735388/;Красногорск;sale;flat;6;10;1;42.0;10700000;; Школьная;1;Павшино;
+ID 99098535;homeowner;https://krasnogorsk.cian.ru/sale/flat/307629430/;Красногорск;sale;flat;6;10;1;42.0;10700000;; Школьная;1;Павшино;
+ID 102094054;homeowner;https://krasnogorsk.cian.ru/sale/flat/286584795/;Красногорск;sale;flat;3;9;2;42.5;10700000;;Железнодорожная ;1к3;Павшино;
+Юлия Володина;realtor;https://krasnogorsk.cian.ru/sale/flat/307764971/;Красногорск;sale;flat;19;22;2;57.0;10800000;;бульвар Космонавтов;1;Опалиха;Изумрудные холмы
+ПАТРИОТ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304029381/;Красногорск;sale;flat;3;8;2;46.1;10800000;; Пришвина;14;Опалиха;
+Елена Потапова;realtor;https://krasnogorsk.cian.ru/sale/flat/306671266/;Красногорск;sale;flat;14;24;1;40.5;10850000;;бульвар Подмосковный;9;Пенягино;
+ID 65966089;homeowner;https://krasnogorsk.cian.ru/sale/flat/303446518/;Красногорск;sale;flat;26;46;1;38.0;10800000;; Авангардная;4;Пенягино;ART
+ID 48138766;realtor;https://krasnogorsk.cian.ru/sale/flat/303680778/;Красногорск;sale;flat;3;8;2;45.7;10899999;; Пришвина;3;Опалиха;Опалиха О3
+ID 152866;homeowner;https://krasnogorsk.cian.ru/sale/flat/303439900/;Красногорск;sale;flat;7;24;2;52.41;10800000;;;к1;Павшино;Ильинойс ЖК
+ID 95483138;homeowner;https://krasnogorsk.cian.ru/sale/flat/306028368/;Красногорск;sale;flat;14;16;1;42.0;10800000;; Спасская;4;Пенягино;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308157390/;Красногорск;sale;flat;5;17;2;53.0;10999000;; Народного Ополчения;2Бк2;Митино;Брусчатый поселок
+На Петровке;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305336575/;Красногорск;sale;flat;30;46;1;42.7;10900000;; Авангардная;8;Пенягино;ART
+На Петровке;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305336573/;Красногорск;sale;flat;30;46;2;42.7;10900000;; Авангардная;8;Пенягино;ART
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304380930/;Красногорск;sale;flat;24;24;2;58.5;10900000;; Игоря Мерлушкина;6;Аникеевка;Изумрудные холмы
+Наталья Свешникова;realtor;https://krasnogorsk.cian.ru/sale/flat/304682578/;Красногорск;sale;flat;20;34;2;49.15;10900000;;;к14;Строгино;Спутник ЖК
+MRealty.Moscow;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307343124/;Красногорск;sale;flat;1;8;2;46.0;10900000;; Пришвина;6;Опалиха;Опалиха О3
+Светлана Анисимова;realtor;https://krasnogorsk.cian.ru/sale/flat/299481110/;Красногорск;sale;flat;3;17;2;56.3;10900000;;бульвар Южный;4;Павшино;
+ID 73792062;homeowner;https://krasnogorsk.cian.ru/sale/flat/304802237/;Красногорск;sale;flat;8;9;2;51.0;10990000;; Ленина;11А;Павшино;
+ID 121737162;homeowner;https://krasnogorsk.cian.ru/sale/flat/307313833/;Красногорск;sale;flat;22;25;1;48.0;10900000;; Жуковского;19;Павшино;RED HILLS
+ID 12383328;realtor;https://krasnogorsk.cian.ru/sale/flat/305617582/;Красногорск;sale;flat;21;25;2;64.5;10900000;;бульвар Космонавтов;7;Опалиха;Изумрудные холмы
+Елена Назиди;realtor;https://krasnogorsk.cian.ru/sale/flat/306785507/;Красногорск;sale;flat;15;24;2;64.1;10990000;;бульвар Космонавтов;1;Опалиха;Изумрудные холмы
+ID 54136090;unknown;https://krasnogorsk.cian.ru/sale/flat/302211572/;Красногорск;sale;flat;5;14;1;38.5;10900000;; Имени Зверева;4;Пенягино;
+ID 13414405;homeowner;https://krasnogorsk.cian.ru/sale/flat/304645449/;Красногорск;sale;flat;1;3;1;41.0;10900000;;Широкая ;5;Опалиха;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303331188/;Красногорск;sale;flat;10;44;1;39.8;11000000;; Авангардная;4;Пенягино;ART
+ID 233866;realtor;https://krasnogorsk.cian.ru/sale/flat/308097799/;Красногорск;sale;flat;24;25;1;29.0;11000000;; Молодежная;4;Пенягино;Молодежный (Красногорск)
+ID 378578;realtor;https://krasnogorsk.cian.ru/sale/flat/308583503/;Красногорск;sale;flat;11;25;1;51.6;11000000;;бульвар Красногорский;5;Пенягино;
+Виктория Денисова;realtor;https://krasnogorsk.cian.ru/sale/flat/308768202/;Красногорск;sale;flat;4;25;2;73.0;11000000;; Игоря Мерлушкина;2;Опалиха;Изумрудные холмы
+ID 182291;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/301074008/;Красногорск;sale;flat;10;19;1;38.0;11000000;;Парковая ;8;Красногорская;Парковые Аллеи
+Любовь Красникова;realtor;https://krasnogorsk.cian.ru/sale/flat/306402910/;Красногорск;sale;flat;7;17;2;64.0;11000000;;Успенская ;16;Опалиха;
+ID 15570519;homeowner;https://krasnogorsk.cian.ru/sale/flat/308595835/;Красногорск;sale;flat;17;19;1;47.0;11000000;;Речная ;20к2;Митино;Красногорская Ривьера
+ID 64225970;homeowner;https://krasnogorsk.cian.ru/sale/flat/305291838/;Красногорск;sale;flat;4;19;1;47.5;11000000;;Речная ;20к2;Митино;Красногорская Ривьера
+ID 87387061;homeowner;https://krasnogorsk.cian.ru/sale/flat/270354867/;Красногорск;sale;flat;2;6;2;51.8;11000000;;аллея Золотая;4;Опалиха;8 кленов
+ID 91312264;homeowner;https://krasnogorsk.cian.ru/sale/flat/304738529/;Красногорск;sale;flat;6;20;1;46.0;11000000;;Речная ;20к4;Павшино;Красногорская Ривьера
+ID 89953468;homeowner;https://krasnogorsk.cian.ru/sale/flat/305470042/;Красногорск;sale;flat;2;22;1;53.5;11150000;;бульвар Красногорский;21;Пенягино;Павшинская пойма мкр. 2
+ID 68874288;homeowner;https://krasnogorsk.cian.ru/sale/flat/270018830/;Красногорск;sale;flat;3;9;2;51.3;11100000;; Дежнева;15;Опалиха;
+ID 568097;realtor;https://krasnogorsk.cian.ru/sale/flat/307990749/;Красногорск;sale;flat;42;45;2;43.5;11200000;; Авангардная;10;Пенягино;ART
+ID 231947;realtor;https://krasnogorsk.cian.ru/sale/flat/306754681/;Красногорск;sale;flat;5;21;1;41.9;11200000;; Спасская;1к1;Пенягино;Спасский Мост
+ID 10196368;unknown;https://krasnogorsk.cian.ru/sale/flat/307083398/;Красногорск;sale;flat;16;17;1;42.3;11200000;;бульвар Красногорский;19;Мякинино;
+ID 13257923;unknown;https://krasnogorsk.cian.ru/sale/flat/303346720/;Красногорск;sale;flat;7;17;1;42.0;11250000;; Спасская;1к3;Пенягино;Спасский Мост
+ID 7470900;realtor;https://krasnogorsk.cian.ru/sale/flat/293928171/;Красногорск;sale;flat;7;10;2;57.0;11200000;;Заводская ;31;Павшино;
+ID 15366305;realtor;https://krasnogorsk.cian.ru/sale/flat/308192371/;Красногорск;sale;flat;8;21;1;50.0;11250000;;бульвар Красногорский;14;Пенягино;Павшинская пойма мкрн. 4
+ID 54425283;realtor;https://krasnogorsk.cian.ru/sale/flat/305681110/;Красногорск;sale;flat;5;19;1;36.3;11200000;;бульвар Красногорский;23к3;Мякинино;Спасский Мост
+МИЭЛЬ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/303861543/;Красногорск;sale;flat;13;17;2;51.3;11900000;;бульвар Павшинский;12;Пенягино;
+ID 113405620;unknown;https://krasnogorsk.cian.ru/sale/flat/307912160/;Красногорск;sale;flat;6;14;2;46.0;11900000;;Вокзальная ;25;Павшино;
+Елена Карпеева;realtor;https://krasnogorsk.cian.ru/sale/flat/308498751/;Красногорск;sale;flat;15;17;2;52.9;11900000;;бульвар Южный;2;Павшино;
+ID 50868332;unknown;https://krasnogorsk.cian.ru/sale/flat/306380974/;Красногорск;sale;flat;7;26;2;59.2;11900000;; Игоря Мерлушкина;2;Опалиха;Изумрудные холмы
+ID 121833784;homeowner;https://krasnogorsk.cian.ru/sale/flat/307382746/;Красногорск;sale;flat;2;6;2;45.5;11990000;; Пришвина;5;Опалиха;Опалиха О3
+ID 35501144;unknown;https://krasnogorsk.cian.ru/sale/flat/304508230/;Красногорск;sale;flat;18;25;2;61.0;11900000;;Ильинское шоссе;14;Павшино;Ильинский парк
+Азбука Жилья;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/300823043/;Красногорск;sale;flat;40;45;2;42.4;12000000;; Авангардная;6;Пенягино;ART
+ID 20656;realtor;https://krasnogorsk.cian.ru/sale/flat/300948902/;Красногорск;sale;flat;5;33;1;40.3;12000000;; Видная;3;Митино;Митино парк
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308494295/;Красногорск;sale;flat;4;17;1;41.3;12000000;;Дачная ;5;Красногорская;
+ID 35501144;unknown;https://krasnogorsk.cian.ru/sale/flat/308713241/;Красногорск;sale;flat;18;25;2;61.0;12000000;;Ильинское шоссе;14;Павшино;Ильинский парк
+ID 10696883;homeowner;https://krasnogorsk.cian.ru/sale/flat/308182887/;Красногорск;sale;flat;8;15;2;51.7;12000000;; Ленина;33;Павшино;
+ID 78434320;homeowner;https://krasnogorsk.cian.ru/sale/flat/303894959/;Красногорск;sale;flat;25;25;2;69.2;12100000;Красногорск;бульвар Космонавтов;13;;Изумрудные холмы
+ID 30383263;homeowner;https://krasnogorsk.cian.ru/sale/flat/269323264/;Красногорск;sale;flat;9;45;2;43.7;12000000;; Авангардная;10;Павшино;ART
+ID 107404229;homeowner;https://krasnogorsk.cian.ru/sale/flat/292246813/;Красногорск;sale;flat;19;21;1;41.6;12000000;;бульвар Павшинский;26;Пенягино;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308571006/;Красногорск;sale;flat;18;25;1;40.0;12200000;;бульвар Красногорский;26;Липовая Роща;Павшинская пойма мкрн. 4
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307870262/;Красногорск;sale;flat;18;25;1;40.0;12200000;;бульвар Красногорский;26;Липовая Роща;Павшинская пойма мкрн. 4
+ID 93331323;unknown;https://krasnogorsk.cian.ru/sale/flat/308237101/;Красногорск;sale;flat;5;25;1;49.2;12200000;;бульвар Красногорский;24;Мякинино;Павшинская пойма мкрн. 4
+ID 51121382;homeowner;https://krasnogorsk.cian.ru/sale/flat/295527090/;Красногорск;sale;flat;18;26;1;40.0;12200000;;бульвар Красногорский;26;Мякинино;Павшинская пойма мкрн. 4
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307949152/;Красногорск;sale;flat;16;25;2;63.7;12250000;;бульвар Космонавтов;13;Опалиха;Изумрудные холмы
+МИЭЛЬ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308239198/;Красногорск;sale;flat;16;22;2;73.5;12300000;;бульвар Павшинский;16;Пенягино; Павшинский бульвар, 16
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306082814/;Красногорск;sale;flat;25;25;2;69.0;12390000;;бульвар Космонавтов;13;Опалиха;Изумрудные холмы
+ID 113907132;homeowner;https://krasnogorsk.cian.ru/sale/flat/299212004/;Красногорск;sale;flat;22;25;2;57.1;12300000;;бульвар Космонавтов;7;Опалиха;Изумрудные холмы
+ID 114327689;homeowner;https://krasnogorsk.cian.ru/sale/flat/304903136/;Красногорск;sale;flat;12;22;2;59.8;12250000;;бульвар Космонавтов;1;Опалиха;Изумрудные холмы
+ID 91660126;homeowner;https://krasnogorsk.cian.ru/sale/flat/297478359/;Красногорск;sale;flat;4;8;2;48.0;12300000;; Пришвина;1к1;Опалиха;Опалиха О3
+Юлия Давыдова;realtor;https://krasnogorsk.cian.ru/sale/flat/301448228/;Красногорск;sale;flat;27;28;1;44.1;12350000;;бульвар Красногорский;25;Волоколамская;Спасский Мост
+ID 112668761;homeowner;https://krasnogorsk.cian.ru/sale/flat/297812350/;Красногорск;sale;flat;21;23;1;43.67;12300000;; Спасская;1к1;Пенягино;Спасский Мост
+ID 362435;realtor;https://krasnogorsk.cian.ru/sale/flat/302318472/;Красногорск;sale;flat;3;26;2;53.0;12450000;; Молодежная;2;Пенягино;Молодежный (Красногорск)
+Анна Клюева;realtor;https://krasnogorsk.cian.ru/sale/flat/306464988/;Красногорск;sale;flat;2;17;1;50.4;12400000;;Дачная ;9;Красногорская;
+Татьяна Алексеевна;realtor;https://krasnogorsk.cian.ru/sale/flat/300751916/;Красногорск;sale;flat;6;25;1;43.0;12499000;;бульвар Красногорский;24;Мякинино;Павшинская пойма мкрн. 4
+ID 119338248;homeowner;https://krasnogorsk.cian.ru/sale/flat/305254724/;Красногорск;sale;flat;14;17;2;52.0;12490000;;бульвар Павшинский;18;Пенягино;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308255893/;Красногорск;sale;flat;3;22;2;53.6;12500000;;Заводская ;18к3;Павшино;мкрн. Южный (Ул. Заводская корп. 31)
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307746041/;Красногорск;sale;flat;3;22;2;53.6;12500000;;Заводская ;18к3;Павшино;мкрн. Южный (Ул. Заводская корп. 31)
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306658231/;Красногорск;sale;flat;7;35;1;38.0;12600000;; Липовой Рощи;2к2;Липовая Роща;Sky Sputnik
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306460917/;Красногорск;sale;flat;6;8;2;51.0;12500000;; Пришвина;4;Опалиха;Опалиха О3
+Наталья Зуева;realtor;https://krasnogorsk.cian.ru/sale/flat/305951260/;Красногорск;sale;flat;13;16;1;43.0;12500000;;бульвар Павшинский;5;Пенягино;
+ID 282487;realtor;https://krasnogorsk.cian.ru/sale/flat/302891399/;Красногорск;sale;flat;3;12;2;48.0;12500000;;бульвар Павшинский;34;Пенягино;
+ID 10687805;homeowner;https://krasnogorsk.cian.ru/sale/flat/308906428/;Красногорск;sale;flat;5;16;2;61.7;12500000;; Спасская;4;Пенягино;
+ID 93133366;homeowner;https://krasnogorsk.cian.ru/sale/flat/307316823/;Красногорск;sale;flat;14;17;2;52.6;12640000;; Пушкинская;21;Красногорская;
+ID 113414115;homeowner;https://krasnogorsk.cian.ru/sale/flat/298697667/;Красногорск;sale;flat;8;31;1;43.5;12550000;;бульвар Подмосковный;13;Мякинино;
+ID 12918260;unknown;https://krasnogorsk.cian.ru/sale/flat/303436427/;Красногорск;sale;flat;2;23;1;52.2;12500000;;бульвар Красногорский;20;Пенягино;Павшинская пойма мкрн. 4
+ID 79999460;homeowner;https://krasnogorsk.cian.ru/sale/flat/306390037/;Красногорск;sale;flat;6;17;2;65.3;12500000;;бульвар Павшинский;38;Пенягино;
+ID 15441754;unknown;https://krasnogorsk.cian.ru/sale/flat/304146190/;Красногорск;sale;flat;25;25;2;55.3;12500000;;Вокзальная ;17А;Павшино;Красногорские ключи
+ID 24328221;homeowner;https://krasnogorsk.cian.ru/sale/flat/305831312/;Красногорск;sale;flat;16;18;1;40.5;12500000;; Видная;3;Митино;Митино парк
+ID 118627087;homeowner;https://krasnogorsk.cian.ru/sale/flat/304203613/;Красногорск;sale;flat;14;25;2;60.0;12500000;;бульвар Космонавтов;7;Опалиха;Изумрудные холмы
+ID 90439500;unknown;https://krasnogorsk.cian.ru/sale/flat/308646675/;Красногорск;sale;flat;24;25;2;63.0;12700000;;бульвар Красногорский;6;Пенягино;
+ID 176795;realtor;https://krasnogorsk.cian.ru/sale/flat/306037413/;Красногорск;sale;flat;18;25;2;58.0;12800000;;бульвар Космонавтов;7;Опалиха;Изумрудные холмы
+ID 81721426;homeowner;https://krasnogorsk.cian.ru/sale/flat/294506632/;Красногорск;sale;flat;9;22;2;74.6;12800000;;бульвар Подмосковный;2;Пенягино;
+ID 116147365;homeowner;https://krasnogorsk.cian.ru/sale/flat/301602067/;Красногорск;sale;flat;4;31;2;49.02;12999999;;;к13;Строгино;Спутник ЖК
+ID 13069559;unknown;https://krasnogorsk.cian.ru/sale/flat/308065561/;Красногорск;sale;flat;18;32;2;60.0;12900000;; Липовой Рощи;4к3;Мякинино;Sky Sputnik
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307314677/;Красногорск;sale;flat;19;22;2;57.4;13000000;;бульвар Южный;6;Павшино;
+ID 25383;realtor;https://krasnogorsk.cian.ru/sale/flat/304309136/;Красногорск;sale;flat;9;22;2;57.8;13000000;;бульвар Южный;6;Павшино;
+ID 21507;realtor;https://krasnogorsk.cian.ru/sale/flat/306686802/;Красногорск;sale;flat;2;14;2;64.0;13000000;;Первомайская ;9;Павшино;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308057958/;Красногорск;sale;flat;19;22;2;57.4;13000000;;бульвар Южный;6;Павшино;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308626675/;Красногорск;sale;flat;15;25;2;70.9;13000000;;бульвар Космонавтов;13;Опалиха;Изумрудные холмы
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306878628/;Красногорск;sale;flat;24;25;2;55.46;13000000;; Молодежная;2;Пенягино;Молодежный (Красногорск)
+ID 12518323;homeowner;https://krasnogorsk.cian.ru/sale/flat/308570745/;Красногорск;sale;flat;15;25;2;70.9;13000000;;бульвар Космонавтов;13;Опалиха;Изумрудные холмы
+ID 21377856;homeowner;https://krasnogorsk.cian.ru/sale/flat/279561230/;Красногорск;sale;flat;4;14;2;52.0;13790000;; Братьев Горожанкиных;15;Опалиха;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306356810/;Красногорск;sale;flat;18;25;1;62.0;13800000;;Ильинское шоссе;16;Павшино;Ильинский парк
+ID 336015;realtor;https://krasnogorsk.cian.ru/sale/flat/306774926/;Красногорск;sale;flat;8;17;2;67.3;13900000;; Спасская;6;Пенягино;
+ID 10196368;unknown;https://krasnogorsk.cian.ru/sale/flat/308356591/;Красногорск;sale;flat;13;25;2;64.0;13800000;;бульвар Красногорский;10;Пенягино;
+ID 90091435;homeowner;https://krasnogorsk.cian.ru/sale/flat/306603986/;Красногорск;sale;flat;2;32;1;44.0;13900000;; Липовой Рощи;4к2;Строгино;Sky Sputnik
+ID 13339107;homeowner;https://krasnogorsk.cian.ru/sale/flat/186168927/;Красногорск;sale;flat;14;22;2;70.8;13800000;;бульвар Ильинский;8;Пенягино;
+ID 79933714;homeowner;https://krasnogorsk.cian.ru/sale/flat/306914318/;Красногорск;sale;flat;22;32;2;56.3;13800000;; Липовой Рощи;1к2;Строгино;Sky Sputnik
+ID 107116832;homeowner;https://krasnogorsk.cian.ru/sale/flat/291933577/;Красногорск;sale;flat;14;44;2;43.6;13900000;; Авангардная;6;Пенягино;ART
+ID 76774178;homeowner;https://krasnogorsk.cian.ru/sale/flat/294573073/;Красногорск;sale;flat;12;12;2;51.0;13900000;;Железнодорожная ;38А;Красногорская;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304582116/;Красногорск;sale;flat;5;14;2;60.1;13999000;;Лесная ;3А;Павшино;Бенуа
+ID 196872;realtor;https://krasnogorsk.cian.ru/sale/flat/305244130/;Красногорск;sale;flat;9;14;2;60.0;14000000;; Братьев Горожанкиных;23;Опалиха;
+Мост Недвижимость;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307396497/;Красногорск;sale;flat;19;22;2;74.0;13950000;;бульвар Подмосковный;12;Липовая Роща;Павшинская пойма мкр. 2
+ID 13120914;realtor;https://krasnogorsk.cian.ru/sale/flat/302502050/;Красногорск;sale;flat;15;23;2;57.8;14000000;; Липовой Рощи;6к2;Строгино;Sky Sputnik
+Мария Баранова;realtor;https://krasnogorsk.cian.ru/sale/flat/308350464/;Красногорск;sale;flat;29;34;2;60.18;13999000;;;к14;Строгино;Спутник ЖК
+Павел Никитин;realtor;https://krasnogorsk.cian.ru/sale/flat/307294471/;Красногорск;sale;flat;16;19;2;68.0;13999999;;Речная ;20к4;Павшино;Красногорская Ривьера
+ID 47199;realtor;https://krasnogorsk.cian.ru/sale/flat/308191160/;Красногорск;sale;flat;11;25;2;60.0;14000000;;бульвар Красногорский;3;Пенягино;Павшинская пойма мкрн. 3
+ID 2204404;unknown;https://krasnogorsk.cian.ru/sale/flat/300758081/;Красногорск;sale;flat;5;28;2;47.3;14200000;; Большая Воскресенская;1;Павшино;Тетрис
+ID 16673380;homeowner;https://krasnogorsk.cian.ru/sale/flat/306362033/;Красногорск;sale;flat;23;25;2;60.6;14100000;;бульвар Красногорский;8;Пенягино;
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308162946/;Красногорск;sale;flat;1;9;2;61.7;14250000;; Дежнева;11;Опалиха;Опалиха О2
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308691288/;Красногорск;sale;flat;9;30;2;40.0;14530000;;бульвар Красногорский;23к1;Пенягино;Спасский Мост
+ID 137148;realtor;https://krasnogorsk.cian.ru/sale/flat/308313244/;Красногорск;sale;flat;16;17;2;51.0;14500000;;Дачная ;5;Красногорская;
+ID 2959486;realtor;https://krasnogorsk.cian.ru/sale/flat/298512283/;Красногорск;sale;flat;11;19;2;65.35;14500000;;бульвар Павшинский;1;Пенягино;
+NEWдвижимость Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/304952098/;Красногорск;sale;flat;17;24;2;41.0;14500000;;;к1;Строгино;Квартал Строгино ЖК
+ID 109665971;homeowner;https://krasnogorsk.cian.ru/sale/flat/304827730/;Красногорск;sale;flat;19;46;2;43.0;14500000;; Авангардная;4;Пенягино;ART
+ID 12583464;homeowner;https://krasnogorsk.cian.ru/sale/flat/305058885/;Красногорск;sale;flat;1;9;2;61.7;14450000;; Дежнева;11;Опалиха;Опалиха О2
+ATRIUM;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/298070644/;Красногорск;sale;flat;27;29;2;59.1;14600000;;бульвар Красногорский;23к2;Волоколамская;Спасский Мост
+ID 291490;homeowner;https://krasnogorsk.cian.ru/sale/flat/301437694/;Красногорск;sale;flat;17;23;-1;62.0;14600000;мкр. Павшинская пойма; Имени Егорова;5;;
+ID 440499;realtor;https://krasnogorsk.cian.ru/sale/flat/306414875/;Красногорск;sale;flat;21;28;2;66.0;14900000;;бульвар Красногорский;25;Волоколамская;Спасский Мост
+ID 106425439;homeowner;https://krasnogorsk.cian.ru/sale/flat/291278800/;Красногорск;sale;flat;9;22;2;75.2;15500000;;бульвар Подмосковный;13;Мякинино;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307135538/;Красногорск;sale;flat;2;31;2;51.0;15600000;;;к2;Строгино;Квартал Строгино ЖК
+ID 51762247;homeowner;https://krasnogorsk.cian.ru/sale/flat/304398114/;Красногорск;sale;flat;11;17;2;72.8;15700000;; Спасская;12;Пенягино;
+ID 12675133;realtor;https://krasnogorsk.cian.ru/sale/flat/303480232/;Красногорск;sale;flat;18;26;2;71.2;15900000;; Молодежная;2;Пенягино;Молодежный (Красногорск)
+ID 47836328;unknown;https://krasnogorsk.cian.ru/sale/flat/283116970/;Красногорск;sale;flat;16;25;2;60.0;15990000;;бульвар Красногорский;32;Мякинино;Павшинская пойма мкрн. 4
+ID 41809117;homeowner;https://krasnogorsk.cian.ru/sale/flat/306772075/;Красногорск;sale;flat;13;17;2;71.0;15950000;;бульвар Подмосковный;5;Пенягино;
+ID 21105063;homeowner;https://krasnogorsk.cian.ru/sale/flat/308182672/;Красногорск;sale;flat;15;26;2;65.8;15900000;; Игоря Мерлушкина;4;Аникеевка;Изумрудные холмы
+На Петровке;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307536498/;Красногорск;sale;flat;11;25;2;67.8;16300000;;Центральная ;;Павшино;М_5
+ID 51244739;homeowner;https://krasnogorsk.cian.ru/sale/flat/307726487/;Красногорск;sale;flat;3;14;2;82.5;16200000;; Школьная;1;Павшино;
+ID 7254046;realtor;https://krasnogorsk.cian.ru/sale/flat/292172306/;Красногорск;sale;flat;2;33;2;53.2;16500000;; Видная;3;Митино;Митино парк
+ID 38347258;homeowner;https://krasnogorsk.cian.ru/sale/flat/216018304/;Красногорск;sale;flat;8;14;2;62.9;16500000;;бульвар Красногорский;50;Волоколамская;Павшинская пойма мкрн. 4
+Елена Мартемьянова;realtor;https://krasnogorsk.cian.ru/sale/flat/303126112/;Красногорск;sale;flat;14;15;2;69.1;16600000;;бульвар Павшинский;36;Пенягино;
+Самолет Плюс;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308901190/;Красногорск;sale;flat;11;24;2;60.3;16860000;; Спасская;4;Липовая Роща;
+ID 56209;realtor;https://krasnogorsk.cian.ru/sale/flat/304993532/;Красногорск;sale;flat;7;17;2;68.0;16800000;; Спасская;1к3;Пенягино;Спасский Мост
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/306828966/;Красногорск;sale;flat;30;35;2;63.2;16990000;; Липовой Рощи;2к1;Липовая Роща;Sky Sputnik
+Амаля Багдасарян;realtor;https://krasnogorsk.cian.ru/sale/flat/307765642/;Красногорск;sale;flat;15;22;2;70.1;17000000;;бульвар Подмосковный;10;Пенягино;Павшинская пойма мкр. 2
+ID 12893739;unknown;https://krasnogorsk.cian.ru/sale/flat/308204909/;Красногорск;sale;flat;2;8;2;56.7;16990000;; Авангардная;3;Пенягино;ART
+ID 13352571;unknown;https://krasnogorsk.cian.ru/sale/flat/299685649/;Красногорск;sale;flat;5;26;2;60.7;17000000;;бульвар Красногорский;26;Мякинино;Павшинская пойма мкрн. 4
+ID 15877290;homeowner;https://krasnogorsk.cian.ru/sale/flat/301363053/;Красногорск;sale;flat;7;7;2;61.0;17100000;;бульвар Павшинский;17;Пенягино;
+ID 12469228;realtor;https://krasnogorsk.cian.ru/sale/flat/301156739/;Красногорск;sale;flat;23;34;2;57.0;17300000;; Видная;6;Митино;Митино парк
+ID 46341;realtor;https://krasnogorsk.cian.ru/sale/flat/275726732/;Красногорск;sale;flat;11;25;2;69.6;17500000;; Молодежная;4;Пенягино;Молодежный (Красногорск)
+ID 120363582;homeowner;https://krasnogorsk.cian.ru/sale/flat/305889944/;Красногорск;sale;flat;10;33;2;57.6;17650000;; Видная;2;Митино;Митино парк
+ID 13034815;realtor;https://krasnogorsk.cian.ru/sale/flat/308820086/;Красногорск;sale;flat;4;17;2;75.0;17800000;;бульвар Павшинский;18;Пенягино;
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/307671680/;Красногорск;sale;flat;24;33;2;57.9;17900000;; Видная;5;Митино;Митино парк
+Этажи Москва;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/308383231/;Красногорск;sale;flat;13;25;2;88.3;18000000;;бульвар Красногорский;7;Пенягино;
+МИЭЛЬ;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305049125/;Красногорск;sale;flat;9;17;2;78.2;18500000;;Лесная ;12;Митино;Реал Парк
+ID 121017644;homeowner;https://krasnogorsk.cian.ru/sale/flat/307360431/;Красногорск;sale;flat;14;22;2;70.7;18500000;;бульвар Красногорский;21;Пенягино;Павшинская пойма мкр. 2
+ID 138282;homeowner;https://krasnogorsk.cian.ru/sale/flat/305456610/;Красногорск;sale;flat;6;25;2;90.5;18500000;;бульвар Красногорский;7;Пенягино;
+ID 44258850;homeowner;https://krasnogorsk.cian.ru/sale/flat/295205436/;Красногорск;sale;flat;24;25;2;70.4;19000000;;бульвар Подмосковный;14;Мякинино;Павшинская пойма мкр. 2
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/299252929/;Красногорск;sale;flat;7;17;2;78.0;19100000;;Парковая ;8;Павшино;Парковые Аллеи
+ID 21784356;homeowner;https://krasnogorsk.cian.ru/sale/flat/296918764/;Красногорск;sale;flat;7;17;2;78.0;19100000;;Парковая ;8;Павшино;Парковые Аллеи
+Татьяна Слепченко;realtor;https://krasnogorsk.cian.ru/sale/flat/308707319/;Красногорск;sale;flat;3;8;2;69.0;19900000;; Авангардная;3;Пенягино;ART
+Татьяна Тарасенко;realtor;https://krasnogorsk.cian.ru/sale/flat/298140413/;Красногорск;sale;flat;2;19;2;81.4;20000000;;Парковая ;8;Павшино;Парковые Аллеи
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305750581/;Красногорск;sale;flat;10;21;2;82.0;20000000;;бульвар Павшинский;26;Пенягино;
+ID 23928887;homeowner;https://krasnogorsk.cian.ru/sale/flat/292697491/;Красногорск;sale;flat;15;23;2;63.1;20000000;; Спасская;1к1;Пенягино;Спасский Мост
+ID 121208176;homeowner;https://krasnogorsk.cian.ru/sale/flat/308285390/;Красногорск;sale;flat;22;25;2;87.2;20890000;;Ильинское шоссе;16;Павшино;Ильинский парк
+Владис;real_estate_agent;https://krasnogorsk.cian.ru/sale/flat/305732136/;Красногорск;sale;flat;18;23;2;68.7;25800000;; Спасская;1к2;Пенягино;Спасский Мост
+ID 191894;realtor;https://krasnogorsk.cian.ru/sale/flat/308109377/;Красногорск;sale;flat;7;7;2;82.0;26000000;;бульвар Павшинский;30;Пенягино;Красногорье DELUXE
+ID 88274303;homeowner;https://krasnogorsk.cian.ru/sale/flat/300137786/;Красногорск;sale;flat;27;30;2;54.7;28925159;;;21;Строгино;Спутник ЖК
+ID 13036246;realtor;https://krasnogorsk.cian.ru/sale/flat/300379476/;Красногорск;sale;flat;18;25;2;140.0;33000000;;Ильинское шоссе;18;Павшино;Ильинский парк
+ID 56824077;realtor;https://krasnogorsk.cian.ru/sale/flat/276019213/;Красногорск;sale;flat;6;7;2;85.0;41500000;; Согласия;19;Строгино;Парк Рублево
+ID 123428300;homeowner;https://krasnogorsk.cian.ru/sale/flat/308766406/;Красногорск;sale;flat;2;5;1;28.4;5900000;; Циолковского;4;Павшино;
+ID 114264488;homeowner;https://krasnogorsk.cian.ru/sale/flat/308676986/;Красногорск;sale;flat;2;9;1;33.0;6400000;;Лесная ;3;Павшино;
+ID 13757249;homeowner;https://krasnogorsk.cian.ru/sale/flat/308802757/;Красногорск;sale;flat;10;14;1;35.0;7000000;; Карбышева;35/69;Опалиха;
+ID 123217979;homeowner;https://krasnogorsk.cian.ru/sale/flat/308490003/;Красногорск;sale;flat;22;24;1;34.0;7100000;;бульвар Космонавтов;12к1;Опалиха;Изумрудные холмы
+ID 123183926;homeowner;https://krasnogorsk.cian.ru/sale/flat/308453864/;Красногорск;sale;flat;4;5;2;44.4;7399000;; Циолковского;10;Павшино;
+ID 103885247;homeowner;https://krasnogorsk.cian.ru/sale/flat/308186560/;Красногорск;sale;flat;3;7;1;33.9;7500000;; Пришвина;18;Опалиха;Опалиха О3
+ID 89406815;homeowner;https://krasnogorsk.cian.ru/sale/flat/308214106/;Красногорск;sale;flat;4;10;1;33.6;7500000;; Королева;5;Павшино;
+ID 123372930;homeowner;https://krasnogorsk.cian.ru/sale/flat/308695735/;Красногорск;sale;flat;21;25;1;29.4;8150000;; Молодежная;3;Пенягино;Молодежный (Красногорск)
+ID 123419949;homeowner;https://krasnogorsk.cian.ru/sale/flat/308900808/;Красногорск;sale;flat;14;24;2;36.94;8500000;;;к1;Павшино;Ильинойс ЖК
+ID 88600756;homeowner;https://krasnogorsk.cian.ru/sale/flat/308603618/;Красногорск;sale;flat;7;18;1;41.0;8800000;;бульвар Южный;4;Павшино;
+ID 79505496;homeowner;https://krasnogorsk.cian.ru/sale/flat/308862104/;Красногорск;sale;flat;16;17;1;39.9;8800000;;бульвар Южный;2;Павшино;
+ID 134794;homeowner;https://krasnogorsk.cian.ru/sale/flat/308043803/;Красногорск;sale;flat;8;8;2;47.6;8900000;; Пришвина;14;Опалиха;
+ID 70167473;homeowner;https://krasnogorsk.cian.ru/sale/flat/308228683/;Красногорск;sale;flat;11;17;1;47.9;9200000;;Успенская ;32;Опалиха;
+ID 85344572;homeowner;https://krasnogorsk.cian.ru/sale/flat/307613850/;Красногорск;sale;flat;6;17;1;36.4;9300000;; Имени Зверева;6;Пенягино;
+ID 53444268;homeowner;https://krasnogorsk.cian.ru/sale/flat/308859817/;Красногорск;sale;flat;4;4;2;44.3;9500000;; Кирова;13;Павшино;
